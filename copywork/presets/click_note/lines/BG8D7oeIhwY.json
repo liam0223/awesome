@@ -1,0 +1,2490 @@
+{
+ "id": "BG8D7oeIhwY",
+ "dur": 30.65,
+ "fps": 30.0,
+ "size": [
+  1080,
+  1920
+ ],
+ "form": "정보(발명품 소개)",
+ "title_lines": [
+  {
+   "text": "치게 만든 대박 발명품?",
+   "colors": [
+    {
+     "word": "치게 만든 대박 발명품?",
+     "hex": "#44DFB7"
+    }
+   ]
+  }
+ ],
+ "source_label": "",
+ "layout": {
+  "window": [
+   0,
+   586,
+   1080,
+   1334
+  ],
+  "caption_band": [
+   403,
+   586
+  ],
+  "title_y": [
+   [
+    267,
+    349
+   ]
+  ],
+  "logo_y": [
+   94,
+   196
+  ],
+  "logo_x": [
+   427,
+   1040
+  ],
+  "source_y": null,
+  "source_hex": null,
+  "bg_hex": "#072723",
+  "watermark": {
+   "what": "'@클릭 노트' 흐린 흰 글 — 영상 창 가운데 아래(눈)",
+   "alpha": 0.5
+  },
+  "ad_mark": {
+   "text": "[광고]",
+   "where": "위 띠 오른쪽(로고 줄 끝 x≈960~1040)",
+   "t": "0~끝"
+  }
+ },
+ "lines": [
+  {
+   "t0": 0.0,
+   "t1": 3.0,
+   "speaker": "나레",
+   "text": "전 세계 수족냉증들 기립박수 / 치게 만든 대박 발명품",
+   "layer": "제목",
+   "read": true,
+   "role": "훅",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 표지 막이 걷히며 본 틀로",
+   "variant": "표지 카드 — 흰 1줄 + 파랑 2줄(검은 테) + 아래 흰 상자 작은 글 '치게 만든 대박 발명품?'",
+   "emph": [
+    {
+     "word": "치게 만든 대박 발명품",
+     "hex": "#0B8FF0"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "표지 카드 — 분홍 빛 장면 위 밝은 막 + 큰 두 줄 제목(흰/파랑) + 흰 상자 작은 제목",
+   "fit": 6,
+   "motion": "cam",
+   "transition": "none",
+   "y": [
+    220,
+    640
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 1000,
+   "fill_hex": "#FFFFFF",
+   "font": {
+    "name": "미일치(BMDOHYEON 눈 대체)",
+    "basis": "fontmatch 0.46 — 미일치"
+   },
+   "size_px": 110,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 6,
+    "hex": "#000000"
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 0.95,
+    "pad": [
+     20,
+     12
+    ],
+    "radius": 6
+   },
+   "confidence": "눈",
+   "notes": "나레가 표지 제목을 읽음(받아쓰기 첫 구간)",
+   "cut_at": [
+    1.1,
+    2.967
+   ],
+   "words": [
+    {
+     "t0": 0.0,
+     "t1": 0.16,
+     "text": "전"
+    },
+    {
+     "t0": 0.16,
+     "t1": 0.36,
+     "text": "세계"
+    },
+    {
+     "t0": 0.36,
+     "t1": 1.02,
+     "text": "수종엔증들,"
+    },
+    {
+     "t0": 1.1,
+     "t1": 1.72,
+     "text": "기립박수치게"
+    },
+    {
+     "t0": 1.72,
+     "t1": 1.88,
+     "text": "만든"
+    },
+    {
+     "t0": 1.88,
+     "t1": 2.24,
+     "text": "대박"
+    },
+    {
+     "t0": 2.24,
+     "t1": 2.78,
+     "text": "발명품"
+    },
+    {
+     "t0": 2.78,
+     "t1": 3.36,
+     "text": "겨울만"
+    }
+   ],
+   "loud": [
+    -13.7,
+    -12.2,
+    -15.0,
+    -18.6,
+    -20.4,
+    -20.8,
+    -19.1,
+    -18.5,
+    -17.5,
+    -18.9,
+    -19.6,
+    -35.8,
+    -14.9
+   ],
+   "confidence_note": "눈(글·자리) · 신호(시각 — 위 띠 색 바뀜)"
+  },
+  {
+   "t0": 3.0,
+   "t1": 3.7,
+   "speaker": "나레",
+   "text": "겨울만 되면",
+   "layer": "해설",
+   "read": true,
+   "role": "다리",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "겨울만",
+     "hex": "#0811F4"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "손에 장갑/손난로",
+   "fit": 6,
+   "motion": "cam",
+   "transition": "none",
+   "y": [
+    462,
+    530
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0F0F13",
+   "font": {
+    "name": "GmarketSansBold",
+    "basis": "fontmatch 0.919(2위 yg-jalnan 0.78) · 3iQ 13.0초"
+   },
+   "size_px": 79,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 겨울만",
+   "cut_at": [],
+   "words": [
+    {
+     "t0": 2.78,
+     "t1": 3.36,
+     "text": "겨울만"
+    },
+    {
+     "t0": 3.36,
+     "t1": 3.52,
+     "text": "되면"
+    },
+    {
+     "t0": 3.52,
+     "t1": 3.9,
+     "text": "주머니"
+    }
+   ],
+   "loud": [
+    -14.9,
+    -16.0,
+    -17.7
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 3.7,
+   "t1": 4.6,
+   "speaker": "나레",
+   "text": "주머니 빵빵하게",
+   "layer": "해설",
+   "read": true,
+   "role": "다리",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "주머니",
+     "hex": "#0811F4"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "주머니에서 손난로",
+   "fit": 6,
+   "motion": "cam",
+   "transition": "none",
+   "y": [
+    462,
+    530
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0F0F13",
+   "font": {
+    "name": "GmarketSansBold",
+    "basis": "fontmatch 0.919(2위 yg-jalnan 0.78) · 3iQ 13.0초"
+   },
+   "size_px": 79,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 주머니",
+   "cut_at": [],
+   "words": [
+    {
+     "t0": 3.52,
+     "t1": 3.9,
+     "text": "주머니"
+    },
+    {
+     "t0": 3.9,
+     "t1": 4.44,
+     "text": "빵빵하게"
+    },
+    {
+     "t0": 4.44,
+     "t1": 4.76,
+     "text": "핫팩"
+    }
+   ],
+   "loud": [
+    -17.7,
+    -15.4,
+    -20.2,
+    -17.9,
+    -23.7
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 4.6,
+   "t1": 5.3,
+   "speaker": "나레",
+   "text": "핫팩 쑤셔 넣던",
+   "layer": "해설",
+   "read": true,
+   "role": "다리",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "쑤셔",
+     "hex": "#0811F4"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "주머니에 손 넣음",
+   "fit": 6,
+   "motion": "cam",
+   "transition": "none",
+   "y": [
+    462,
+    530
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0F0F13",
+   "font": {
+    "name": "GmarketSansBold",
+    "basis": "fontmatch 0.919(2위 yg-jalnan 0.78) · 3iQ 13.0초"
+   },
+   "size_px": 79,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 쑤셔",
+   "cut_at": [],
+   "words": [
+    {
+     "t0": 4.44,
+     "t1": 4.76,
+     "text": "핫팩"
+    },
+    {
+     "t0": 4.76,
+     "t1": 5.2,
+     "text": "수셔놓던"
+    },
+    {
+     "t0": 5.2,
+     "t1": 5.42,
+     "text": "사람들"
+    }
+   ],
+   "loud": [
+    -23.7,
+    -23.7,
+    -20.6,
+    -19.9
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 5.3,
+   "t1": 6.2,
+   "speaker": "나레",
+   "text": "사람들 사이에서",
+   "layer": "해설",
+   "read": true,
+   "role": "다리",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "사람들",
+     "hex": "#0811F4"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "손 근접",
+   "fit": 5,
+   "motion": "cam",
+   "transition": "none",
+   "y": [
+    462,
+    530
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0F0F13",
+   "font": {
+    "name": "GmarketSansBold",
+    "basis": "fontmatch 0.919(2위 yg-jalnan 0.78) · 3iQ 13.0초"
+   },
+   "size_px": 79,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 사람들",
+   "cut_at": [],
+   "words": [
+    {
+     "t0": 5.2,
+     "t1": 5.42,
+     "text": "사람들"
+    },
+    {
+     "t0": 5.42,
+     "t1": 5.98,
+     "text": "사이에서"
+    },
+    {
+     "t0": 5.98,
+     "t1": 6.4,
+     "text": "난리가"
+    }
+   ],
+   "loud": [
+    -19.9,
+    -21.2,
+    -22.0,
+    -27.3
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 6.2,
+   "t1": 7.0,
+   "speaker": "나레",
+   "text": "난리가 났다는데",
+   "layer": "해설",
+   "read": true,
+   "role": "다리",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "난리가",
+     "hex": "#0811F4"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "손 근접",
+   "fit": 5,
+   "motion": "cam",
+   "transition": "none",
+   "y": [
+    462,
+    530
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0F0F13",
+   "font": {
+    "name": "GmarketSansBold",
+    "basis": "fontmatch 0.919(2위 yg-jalnan 0.78) · 3iQ 13.0초"
+   },
+   "size_px": 79,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 난리가",
+   "cut_at": [],
+   "words": [
+    {
+     "t0": 5.98,
+     "t1": 6.4,
+     "text": "난리가"
+    },
+    {
+     "t0": 6.4,
+     "t1": 6.82,
+     "text": "났다는데"
+    },
+    {
+     "t0": 6.82,
+     "t1": 7.34,
+     "text": "미친"
+    }
+   ],
+   "loud": [
+    -27.3,
+    -15.5,
+    -20.7,
+    -22.3,
+    -22.3
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 7.0,
+   "t1": 7.9,
+   "speaker": "나레",
+   "text": "미친 듯이 흔들어도",
+   "layer": "해설",
+   "read": true,
+   "role": "본문",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "듯이",
+     "hex": "#0811F4"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "핫팩을 흔듦",
+   "fit": 8,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    462,
+    530
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0F0F13",
+   "font": {
+    "name": "GmarketSansBold",
+    "basis": "fontmatch 0.919(2위 yg-jalnan 0.78) · 3iQ 13.0초"
+   },
+   "size_px": 79,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 듯이",
+   "cut_at": [
+    7.0
+   ],
+   "words": [
+    {
+     "t0": 6.82,
+     "t1": 7.34,
+     "text": "미친"
+    },
+    {
+     "t0": 7.34,
+     "t1": 7.54,
+     "text": "듯이"
+    },
+    {
+     "t0": 7.54,
+     "t1": 7.86,
+     "text": "흔들어도"
+    },
+    {
+     "t0": 7.86,
+     "t1": 8.4,
+     "text": "미지근하고"
+    }
+   ],
+   "loud": [
+    -22.3,
+    -22.4,
+    -17.4,
+    -17.6
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 7.9,
+   "t1": 9.0,
+   "speaker": "나레",
+   "text": "미지근하고 터지면",
+   "layer": "해설",
+   "read": true,
+   "role": "본문",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "미지근하고",
+     "hex": "#0811F4"
+    },
+    {
+     "word": "터지면",
+     "hex": "#0811F4"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "핫팩 근접",
+   "fit": 7,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    462,
+    530
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0F0F13",
+   "font": {
+    "name": "GmarketSansBold",
+    "basis": "fontmatch 0.919(2위 yg-jalnan 0.78) · 3iQ 13.0초"
+   },
+   "size_px": 79,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 미지근하고, 터지면",
+   "cut_at": [
+    7.933
+   ],
+   "words": [
+    {
+     "t0": 7.86,
+     "t1": 8.4,
+     "text": "미지근하고"
+    },
+    {
+     "t0": 8.4,
+     "t1": 8.94,
+     "text": "퍼지면"
+    },
+    {
+     "t0": 8.94,
+     "t1": 9.22,
+     "text": "가루"
+    }
+   ],
+   "loud": [
+    -17.6,
+    -17.3,
+    -27.9,
+    -27.2,
+    -19.7,
+    -19.3
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 9.0,
+   "t1": 10.6,
+   "speaker": "나레",
+   "text": "가루 범벅되던 그 스트레스를",
+   "layer": "해설",
+   "read": true,
+   "role": "본문",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "범벅되던",
+     "hex": "#0811F4"
+    },
+    {
+     "word": "그",
+     "hex": "#0811F4"
+    },
+    {
+     "word": "스트레스를",
+     "hex": "#0811F4"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "터진 핫팩 가루",
+   "fit": 8,
+   "motion": "cam",
+   "transition": "none",
+   "y": [
+    462,
+    530
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0F0F13",
+   "font": {
+    "name": "GmarketSansBold",
+    "basis": "fontmatch 0.919(2위 yg-jalnan 0.78) · 3iQ 13.0초"
+   },
+   "size_px": 79,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 범벅되던, 그, 스트레스를",
+   "cut_at": [],
+   "words": [
+    {
+     "t0": 8.94,
+     "t1": 9.22,
+     "text": "가루"
+    },
+    {
+     "t0": 9.22,
+     "t1": 9.72,
+     "text": "본복되던"
+    },
+    {
+     "t0": 9.72,
+     "t1": 9.94,
+     "text": "그"
+    },
+    {
+     "t0": 9.94,
+     "t1": 10.36,
+     "text": "스트레스를"
+    },
+    {
+     "t0": 10.36,
+     "t1": 10.74,
+     "text": "한"
+    }
+   ],
+   "loud": [
+    -19.3,
+    -17.9,
+    -17.5,
+    -24.2,
+    -23.9,
+    -20.6,
+    -22.8
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 10.6,
+   "t1": 11.8,
+   "speaker": "나레",
+   "text": "한방에 날려버렸다고",
+   "layer": "해설",
+   "read": true,
+   "role": "본문",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "한방에",
+     "hex": "#0811F4"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "핫팩 가루 근접",
+   "fit": 5,
+   "motion": "cam",
+   "transition": "none",
+   "y": [
+    462,
+    530
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0F0F13",
+   "font": {
+    "name": "GmarketSansBold",
+    "basis": "fontmatch 0.919(2위 yg-jalnan 0.78) · 3iQ 13.0초"
+   },
+   "size_px": 79,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 한방에",
+   "cut_at": [],
+   "words": [
+    {
+     "t0": 10.36,
+     "t1": 10.74,
+     "text": "한"
+    },
+    {
+     "t0": 10.74,
+     "t1": 11.04,
+     "text": "방에"
+    },
+    {
+     "t0": 11.04,
+     "t1": 11.7,
+     "text": "날려버렸다고"
+    },
+    {
+     "t0": 11.7,
+     "t1": 12.1,
+     "text": "이건"
+    }
+   ],
+   "loud": [
+    -22.8,
+    -15.8,
+    -22.9,
+    -15.2,
+    -23.3,
+    -22.1
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 11.8,
+   "t1": 12.4,
+   "speaker": "나레",
+   "text": "이건 바로",
+   "layer": "해설",
+   "read": true,
+   "role": "이음",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "이건",
+     "hex": "#0811F4"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "빨간 손난로 근접",
+   "fit": 6,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    462,
+    530
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0F0F13",
+   "font": {
+    "name": "GmarketSansBold",
+    "basis": "fontmatch 0.919(2위 yg-jalnan 0.78) · 3iQ 13.0초"
+   },
+   "size_px": 79,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 이건",
+   "cut_at": [
+    11.867
+   ],
+   "words": [
+    {
+     "t0": 11.7,
+     "t1": 12.1,
+     "text": "이건"
+    },
+    {
+     "t0": 12.1,
+     "t1": 12.28,
+     "text": "바로"
+    },
+    {
+     "t0": 12.28,
+     "t1": 12.74,
+     "text": "자석"
+    }
+   ],
+   "loud": [
+    -22.1,
+    -14.5,
+    -19.2
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 12.4,
+   "t1": 14.1,
+   "speaker": "나레",
+   "text": "자석 분리형 충전식 손난로",
+   "layer": "해설",
+   "read": true,
+   "role": "공개",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "자석",
+     "hex": "#0811F4"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "빨간 손난로 들고 보여줌",
+   "fit": 8,
+   "motion": "cam",
+   "transition": "none",
+   "y": [
+    462,
+    530
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0F0F13",
+   "font": {
+    "name": "GmarketSansBold",
+    "basis": "fontmatch 0.919(2위 yg-jalnan 0.78) · 3iQ 13.0초"
+   },
+   "size_px": 79,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 자석",
+   "cut_at": [],
+   "words": [
+    {
+     "t0": 12.28,
+     "t1": 12.74,
+     "text": "자석"
+    },
+    {
+     "t0": 12.74,
+     "t1": 13.04,
+     "text": "불리형"
+    },
+    {
+     "t0": 13.04,
+     "t1": 13.52,
+     "text": "충전식"
+    },
+    {
+     "t0": 13.52,
+     "t1": 14.02,
+     "text": "손날로"
+    },
+    {
+     "t0": 14.02,
+     "t1": 14.5,
+     "text": "하나로"
+    }
+   ],
+   "loud": [
+    -19.2,
+    -20.9,
+    -15.5,
+    -21.9,
+    -20.6,
+    -25.8,
+    -21.2,
+    -24.4
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 14.1,
+   "t1": 15.4,
+   "speaker": "나레",
+   "text": "하나로 딱 붙여 쓰다가",
+   "layer": "해설",
+   "read": true,
+   "role": "본문",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "하나로",
+     "hex": "#0811F4"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "붙은 두 조각 손난로",
+   "fit": 8,
+   "motion": "cam",
+   "transition": "none",
+   "y": [
+    462,
+    530
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0F0F13",
+   "font": {
+    "name": "GmarketSansBold",
+    "basis": "fontmatch 0.919(2위 yg-jalnan 0.78) · 3iQ 13.0초"
+   },
+   "size_px": 79,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 하나로",
+   "cut_at": [],
+   "words": [
+    {
+     "t0": 14.02,
+     "t1": 14.5,
+     "text": "하나로"
+    },
+    {
+     "t0": 14.5,
+     "t1": 14.62,
+     "text": "딱"
+    },
+    {
+     "t0": 14.62,
+     "t1": 14.88,
+     "text": "붙여"
+    },
+    {
+     "t0": 14.88,
+     "t1": 15.18,
+     "text": "쓰다가"
+    },
+    {
+     "t0": 15.18,
+     "t1": 15.8,
+     "text": "쪼가고"
+    }
+   ],
+   "loud": [
+    -24.4,
+    -14.7,
+    -17.7,
+    -26.2,
+    -16.6,
+    -24.2
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 15.4,
+   "t1": 16.4,
+   "speaker": "나레",
+   "text": "쩍하고 둘로 쪼개서",
+   "layer": "해설",
+   "read": true,
+   "role": "본문",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "쩍하고",
+     "hex": "#0811F4"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "손난로를 둘로 나눔",
+   "fit": 8,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    462,
+    530
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0F0F13",
+   "font": {
+    "name": "GmarketSansBold",
+    "basis": "fontmatch 0.919(2위 yg-jalnan 0.78) · 3iQ 13.0초"
+   },
+   "size_px": 79,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 쩍하고",
+   "cut_at": [
+    15.667,
+    16.233
+   ],
+   "words": [
+    {
+     "t0": 15.18,
+     "t1": 15.8,
+     "text": "쪼가고"
+    },
+    {
+     "t0": 15.8,
+     "t1": 16.12,
+     "text": "둘로"
+    },
+    {
+     "t0": 16.12,
+     "t1": 16.54,
+     "text": "쪽에서"
+    }
+   ],
+   "loud": [
+    -24.2,
+    -15.4,
+    -18.1,
+    -18.3,
+    -21.0
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 16.4,
+   "t1": 17.3,
+   "speaker": "나레",
+   "text": "양쪽 주머니에",
+   "layer": "해설",
+   "read": true,
+   "role": "본문",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "양쪽",
+     "hex": "#0811F4"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "손에 든 흰 손난로",
+   "fit": 6,
+   "motion": "cam",
+   "transition": "none",
+   "y": [
+    462,
+    530
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0F0F13",
+   "font": {
+    "name": "GmarketSansBold",
+    "basis": "fontmatch 0.919(2위 yg-jalnan 0.78) · 3iQ 13.0초"
+   },
+   "size_px": 79,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 양쪽",
+   "cut_at": [],
+   "words": [
+    {
+     "t0": 16.12,
+     "t1": 16.54,
+     "text": "쪽에서"
+    },
+    {
+     "t0": 16.54,
+     "t1": 16.96,
+     "text": "양쪽"
+    },
+    {
+     "t0": 16.96,
+     "t1": 17.34,
+     "text": "주머니에"
+    }
+   ],
+   "loud": [
+    -21.0,
+    -23.5,
+    -21.2,
+    -18.0,
+    -17.4
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 17.3,
+   "t1": 18.3,
+   "speaker": "나레",
+   "text": "쏙 넣어버린다는 거",
+   "layer": "해설",
+   "read": true,
+   "role": "본문",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "넣어버린다는",
+     "hex": "#0811F4"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "주머니에 넣음",
+   "fit": 7,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    462,
+    530
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0F0F13",
+   "font": {
+    "name": "GmarketSansBold",
+    "basis": "fontmatch 0.919(2위 yg-jalnan 0.78) · 3iQ 13.0초"
+   },
+   "size_px": 79,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 넣어버린다는",
+   "cut_at": [
+    17.833
+   ],
+   "words": [
+    {
+     "t0": 16.96,
+     "t1": 17.34,
+     "text": "주머니에"
+    },
+    {
+     "t0": 17.34,
+     "t1": 17.52,
+     "text": "쏙"
+    },
+    {
+     "t0": 17.52,
+     "t1": 18.06,
+     "text": "넣어버린다는"
+    },
+    {
+     "t0": 18.06,
+     "t1": 18.28,
+     "text": "거"
+    },
+    {
+     "t0": 18.28,
+     "t1": 18.56,
+     "text": "이게"
+    }
+   ],
+   "loud": [
+    -17.4,
+    -17.3,
+    -17.2,
+    -21.9,
+    -27.9
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 18.3,
+   "t1": 19.6,
+   "speaker": "나레",
+   "text": "이게 진짜 말도 안 되는게",
+   "layer": "큰글",
+   "read": true,
+   "role": "반전",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "창 안 큰 2줄 글(흰 띠 숨김) · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "말도",
+     "hex": "#0811F4"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "얼굴",
+   "scene_desc": "반응 짤(우는 아기) — 흰 띠 없이 창 안 큰 글 '이게 진짜'+'말도'(파랑)/'안 되는게'",
+   "fit": 4,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    1150,
+    1380
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#FFFFFF",
+   "font": {
+    "name": "미일치(굵은 고딕 — 눈)",
+    "basis": "흰 글 + 파랑 낱말 2줄, 검은 그림자"
+   },
+   "size_px": 100,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 4,
+    "hex": "#000000"
+   },
+   "ring": null,
+   "shadow": {
+    "blur": 12,
+    "hex": "#000000",
+    "alpha": 0.6
+   },
+   "glow": null,
+   "box": null,
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 말도",
+   "cut_at": [
+    18.4
+   ],
+   "words": [
+    {
+     "t0": 18.28,
+     "t1": 18.56,
+     "text": "이게"
+    },
+    {
+     "t0": 18.56,
+     "t1": 18.8,
+     "text": "진짜"
+    },
+    {
+     "t0": 18.8,
+     "t1": 19.02,
+     "text": "말도"
+    },
+    {
+     "t0": 19.02,
+     "t1": 19.16,
+     "text": "안"
+    },
+    {
+     "t0": 19.16,
+     "t1": 19.24,
+     "text": "되는"
+    },
+    {
+     "t0": 19.24,
+     "t1": 19.42,
+     "text": "게"
+    },
+    {
+     "t0": 19.42,
+     "t1": 19.94,
+     "text": "스위치"
+    }
+   ],
+   "loud": [
+    -27.9,
+    -13.7,
+    -21.2,
+    -14.2,
+    -16.6,
+    -24.1
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 19.6,
+   "t1": 20.2,
+   "speaker": "나레",
+   "text": "스위치 켜자마자",
+   "layer": "해설",
+   "read": true,
+   "role": "고조",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "스위치",
+     "hex": "#0811F4"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "스위치 누름",
+   "fit": 8,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    462,
+    530
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0F0F13",
+   "font": {
+    "name": "GmarketSansBold",
+    "basis": "fontmatch 0.919(2위 yg-jalnan 0.78) · 3iQ 13.0초"
+   },
+   "size_px": 79,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 스위치",
+   "cut_at": [
+    19.633
+   ],
+   "words": [
+    {
+     "t0": 19.42,
+     "t1": 19.94,
+     "text": "스위치"
+    },
+    {
+     "t0": 19.94,
+     "t1": 20.34,
+     "text": "켜자마자"
+    }
+   ],
+   "loud": [
+    -24.1,
+    -18.5,
+    -20.9
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 20.2,
+   "t1": 21.6,
+   "speaker": "나레",
+   "text": "순식간에 찜질방 수준으로",
+   "layer": "해설",
+   "read": true,
+   "role": "고조",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "순식간에",
+     "hex": "#0811F4"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "온도계로 손난로를 잼",
+   "fit": 7,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    462,
+    530
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0F0F13",
+   "font": {
+    "name": "GmarketSansBold",
+    "basis": "fontmatch 0.919(2위 yg-jalnan 0.78) · 3iQ 13.0초"
+   },
+   "size_px": 79,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 순식간에",
+   "cut_at": [
+    21.233
+   ],
+   "words": [
+    {
+     "t0": 19.94,
+     "t1": 20.34,
+     "text": "켜자마자"
+    },
+    {
+     "t0": 20.34,
+     "t1": 20.5,
+     "text": "술"
+    },
+    {
+     "t0": 20.5,
+     "t1": 20.88,
+     "text": "시간에"
+    },
+    {
+     "t0": 20.88,
+     "t1": 21.34,
+     "text": "찜제방"
+    },
+    {
+     "t0": 21.34,
+     "t1": 21.72,
+     "text": "수준으로"
+    }
+   ],
+   "loud": [
+    -20.9,
+    -19.3,
+    -19.5,
+    -18.3,
+    -19.5,
+    -17.4,
+    -18.8
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 21.6,
+   "t1": 22.5,
+   "speaker": "나레",
+   "text": "뜨끈해진다는데",
+   "layer": "해설",
+   "read": true,
+   "role": "고조",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "뜨끈해진다는데",
+     "hex": "#0811F4"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "손에 쥔 손난로",
+   "fit": 6,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    462,
+    530
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0F0F13",
+   "font": {
+    "name": "GmarketSansBold",
+    "basis": "fontmatch 0.919(2위 yg-jalnan 0.78) · 3iQ 13.0초"
+   },
+   "size_px": 79,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 뜨끈해진다는데",
+   "cut_at": [
+    21.8
+   ],
+   "words": [
+    {
+     "t0": 21.34,
+     "t1": 21.72,
+     "text": "수준으로"
+    },
+    {
+     "t0": 21.72,
+     "t1": 22.42,
+     "text": "뜨끈해진다는데"
+    },
+    {
+     "t0": 22.42,
+     "t1": 22.8,
+     "text": "더"
+    }
+   ],
+   "loud": [
+    -18.8,
+    -16.6,
+    -18.6,
+    -21.6,
+    -22.4
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 22.5,
+   "t1": 23.4,
+   "speaker": "나레",
+   "text": "더 놀라운 건",
+   "layer": "해설",
+   "read": true,
+   "role": "이음",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "놀라운",
+     "hex": "#0811F4"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "기타",
+   "scene_desc": "반응 짤(놀란 개)",
+   "fit": 4,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    462,
+    530
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0F0F13",
+   "font": {
+    "name": "GmarketSansBold",
+    "basis": "fontmatch 0.919(2위 yg-jalnan 0.78) · 3iQ 13.0초"
+   },
+   "size_px": 79,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 놀라운",
+   "cut_at": [
+    22.7
+   ],
+   "words": [
+    {
+     "t0": 22.42,
+     "t1": 22.8,
+     "text": "더"
+    },
+    {
+     "t0": 22.8,
+     "t1": 23.12,
+     "text": "놀라운"
+    },
+    {
+     "t0": 23.12,
+     "t1": 23.24,
+     "text": "건"
+    },
+    {
+     "t0": 23.24,
+     "t1": 23.78,
+     "text": "핸드폰"
+    }
+   ],
+   "loud": [
+    -22.4,
+    -13.1,
+    -15.9,
+    -23.3
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 23.4,
+   "t1": 24.6,
+   "speaker": "나레",
+   "text": "핸드폰 방전됐을 때",
+   "layer": "해설",
+   "read": true,
+   "role": "고조",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "핸드폰",
+     "hex": "#0811F4"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "휴대폰 근접",
+   "fit": 6,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    462,
+    530
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0F0F13",
+   "font": {
+    "name": "GmarketSansBold",
+    "basis": "fontmatch 0.919(2위 yg-jalnan 0.78) · 3iQ 13.0초"
+   },
+   "size_px": 79,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 핸드폰",
+   "cut_at": [
+    23.733
+   ],
+   "words": [
+    {
+     "t0": 23.24,
+     "t1": 23.78,
+     "text": "핸드폰"
+    },
+    {
+     "t0": 23.78,
+     "t1": 24.36,
+     "text": "방전됐을"
+    },
+    {
+     "t0": 24.36,
+     "t1": 24.48,
+     "text": "때"
+    },
+    {
+     "t0": 24.48,
+     "t1": 25.26,
+     "text": "보조배터리로"
+    }
+   ],
+   "loud": [
+    -23.3,
+    -17.7,
+    -19.3,
+    -16.8,
+    -17.2,
+    -21.9
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 24.6,
+   "t1": 25.8,
+   "speaker": "나레",
+   "text": "보조배터리로 선 꽂아",
+   "layer": "해설",
+   "read": true,
+   "role": "고조",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "보조배터리로",
+     "hex": "#0811F4"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "손난로에 휴대폰 선 꽂음",
+   "fit": 8,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    462,
+    530
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0F0F13",
+   "font": {
+    "name": "GmarketSansBold",
+    "basis": "fontmatch 0.919(2위 yg-jalnan 0.78) · 3iQ 13.0초"
+   },
+   "size_px": 79,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 보조배터리로",
+   "cut_at": [
+    24.633,
+    25.4
+   ],
+   "words": [
+    {
+     "t0": 24.48,
+     "t1": 25.26,
+     "text": "보조배터리로"
+    },
+    {
+     "t0": 25.26,
+     "t1": 25.74,
+     "text": "선꼬자"
+    },
+    {
+     "t0": 25.74,
+     "t1": 26.22,
+     "text": "충전까지"
+    }
+   ],
+   "loud": [
+    -21.9,
+    -17.1,
+    -17.4,
+    -20.6,
+    -18.3,
+    -18.3
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 25.8,
+   "t1": 27.0,
+   "speaker": "나레",
+   "text": "충전까지 해버린다는 거",
+   "layer": "해설",
+   "read": true,
+   "role": "고조",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "충전까지",
+     "hex": "#0811F4"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "충전되는 휴대폰",
+   "fit": 8,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    462,
+    530
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0F0F13",
+   "font": {
+    "name": "GmarketSansBold",
+    "basis": "fontmatch 0.919(2위 yg-jalnan 0.78) · 3iQ 13.0초"
+   },
+   "size_px": 79,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 충전까지",
+   "cut_at": [
+    26.433
+   ],
+   "words": [
+    {
+     "t0": 25.74,
+     "t1": 26.22,
+     "text": "충전까지"
+    },
+    {
+     "t0": 26.22,
+     "t1": 26.74,
+     "text": "해버린다는"
+    },
+    {
+     "t0": 26.74,
+     "t1": 26.96,
+     "text": "거"
+    },
+    {
+     "t0": 26.96,
+     "t1": 27.64,
+     "text": "양주머니에"
+    }
+   ],
+   "loud": [
+    -18.3,
+    -21.9,
+    -22.8,
+    -18.5,
+    -25.4,
+    -18.3
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 27.0,
+   "t1": 28.9,
+   "speaker": "나레",
+   "text": "양 주머니에 하나씩",
+   "layer": "해설",
+   "read": true,
+   "role": "끝",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "주머니에",
+     "hex": "#0811F4"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "손난로 두 조각",
+   "fit": 6,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    462,
+    530
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0F0F13",
+   "font": {
+    "name": "GmarketSansBold",
+    "basis": "fontmatch 0.919(2위 yg-jalnan 0.78) · 3iQ 13.0초"
+   },
+   "size_px": 79,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 주머니에",
+   "cut_at": [
+    27.233,
+    28.267,
+    28.7
+   ],
+   "words": [
+    {
+     "t0": 26.96,
+     "t1": 27.64,
+     "text": "양주머니에"
+    },
+    {
+     "t0": 27.64,
+     "t1": 27.92,
+     "text": "하나씩"
+    },
+    {
+     "t0": 27.92,
+     "t1": 28.26,
+     "text": "찔러놓고"
+    },
+    {
+     "t0": 28.26,
+     "t1": 28.7,
+     "text": "다니면"
+    },
+    {
+     "t0": 28.7,
+     "t1": 29.12,
+     "text": "야외"
+    }
+   ],
+   "loud": [
+    -18.3,
+    -14.8,
+    -15.9,
+    -22.1,
+    -17.1,
+    -18.9,
+    -19.3,
+    -22.9
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 28.9,
+   "t1": 30.4,
+   "speaker": "나레",
+   "text": "야외 활동도 아주 무적이라는데",
+   "layer": "해설",
+   "read": true,
+   "role": "끝",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "야외",
+     "hex": "#0811F4"
+    },
+    {
+     "word": "무적이라는데",
+     "hex": "#0811F4"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "손에 쥔 손난로",
+   "fit": 5,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    462,
+    530
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0F0F13",
+   "font": {
+    "name": "GmarketSansBold",
+    "basis": "fontmatch 0.919(2위 yg-jalnan 0.78) · 3iQ 13.0초"
+   },
+   "size_px": 79,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 야외, 무적이라는데",
+   "cut_at": [
+    30.2
+   ],
+   "words": [
+    {
+     "t0": 28.7,
+     "t1": 29.12,
+     "text": "야외"
+    },
+    {
+     "t0": 29.12,
+     "t1": 29.52,
+     "text": "활동도"
+    },
+    {
+     "t0": 29.52,
+     "t1": 29.8,
+     "text": "아주"
+    },
+    {
+     "t0": 29.8,
+     "t1": 30.38,
+     "text": "무적이라는데"
+    }
+   ],
+   "loud": [
+    -22.9,
+    -15.0,
+    -21.3,
+    -24.3,
+    -28.6,
+    -19.2,
+    -23.0
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  }
+ ],
+ "no_caption": [],
+ "beats": "훅(0~3.0 표지 나레) → 다리(3.0~7.0 '겨울만 되면 주머니 빵빵하게 핫팩 쑤셔 넣던 사람들 사이에서 난리가 났다는데') → 본문(7.0~11.8 기존 불편 해결 '~버렸다고') → 공개(11.8~14.1 '이건 바로 자석 분리형 충전식 손난로') → 본문(14.1~18.3 '~버린다는 거') → 짤(18.3~19.6 '이게 진짜 말도 안 되는게') → 고조(19.6~27.0 '더 놀라운 건') → 끝(27.0~30.4 '야외 활동도 아주 무적이라는데')",
+ "narr_share": "나레 줄 26/26 · 받아쓰기 말 구간 0.99",
+ "name_evidence": [],
+ "frame0": {
+  "what": "표지 카드 — 분홍 빛 장면 위 밝은 막 + 큰 두 줄 제목(흰/파랑) + 흰 상자 작은 제목",
+  "face_frac": 0,
+  "text": "전 세계 수족냉증들 기립박수 / 치게 만든 대박 발명품 / 치게 만든 대박 발명품?"
+ },
+ "notes": [
+  "반응 짤 2개(18.3~19.6 우는 아기 — 흰 띠 없음 · 22.5~23.4 놀란 개 — 흰 띠 자막 그대로)",
+  "표지 0~3.0초",
+  "파란(남색) 강조 낱말이 나레가 읽는 낱말을 따라 옮겨 감 — 노래방 자막 꼴(0.3초 띠 7.9~10.6 확인)",
+  "받아쓰기 = 위스퍼(낱말 시각 정밀도 낮음)",
+  "효과음·BGM 이름 = 미측정 — agy·분리 도구 없음"
+ ]
+}

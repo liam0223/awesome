@@ -1,0 +1,54 @@
+{
+ "sha256": "a3476f1f2c593f4ec195c5260c50d63657c4db2b71de01bac5191362023be8ba",
+ "q": "1d53a3d40d2fd998",
+ "model": "gemini-2.5-flash",
+ "who": "제미나이(소리·화면) — 회원 허락 2026-11-08",
+ "usage": {
+  "promptTokenCount": 9117,
+  "candidatesTokenCount": 400,
+  "totalTokenCount": 11662,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 857
+   },
+   {
+    "modality": "VIDEO",
+    "tokenCount": 7364
+   },
+   {
+    "modality": "AUDIO",
+    "tokenCount": 896
+   }
+  ],
+  "thoughtsTokenCount": 2145,
+  "serviceTier": "standard"
+ },
+ "result": {
+  "voice": {
+   "natural": "전반적으로 자연스럽고 명확하며 적절한 속도로 잘 전달됩니다.",
+   "issues": []
+  },
+  "script_match": [],
+  "sfx": {
+   "overall": "효과음의 개수는 적절하나, 일부 효과음의 크기가 다소 큽니다.",
+   "issues": [
+    {
+     "t": 19.61,
+     "what": "텍스트 강조를 위한 'dung' 효과음이 다른 효과음에 비해 너무 크고 갑작스럽게 들립니다."
+    }
+   ]
+  },
+  "mix": "나레이션 크기가 일정하고 잡음 없이 깨끗하며, 끊김이나 끝 처리도 자연스럽습니다.",
+  "picture": [
+   {
+    "t": 0.0,
+    "what": "영상 내 텍스트 중 일부가 모자이크 처리되어 있습니다. (예: '얼음장이고', '못 나가던 거', '소문난', '충전식', '신기한 게', '쑥 넣고', '버튼 꾹', '딱 켜지면서', '뜨끈해진다는 거', '충전식이라', '그대로 신고', '돌아다닌다고', '미친 포인트는', '발열판을', '빼낼 수 있다는데', '겉도 속도 털이라', '폭 감싸진다는 거', '위험하다는 말', '옛말이라는데')"
+   }
+  ],
+  "verdict": "고칠 곳 있음",
+  "fix_first": [
+   "19.61초의 'dung' 효과음 볼륨을 줄여 다른 효과음과 조화를 이루도록 조정해야 합니다."
+  ]
+ }
+}

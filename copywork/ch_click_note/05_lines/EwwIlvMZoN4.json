@@ -1,0 +1,2293 @@
+{
+ "id": "EwwIlvMZoN4",
+ "dur": 28.073,
+ "fps": 30.0,
+ "size": [
+  1080,
+  1920
+ ],
+ "form": "정보(발명품 소개)",
+ "title_lines": [
+  {
+   "text": "미용실 원장도 감탄한 / 천재의 발명품?",
+   "colors": [
+    {
+     "word": "미용실 원장도 감탄한 / 천재의 발명품?",
+     "hex": "#41E6B9"
+    }
+   ]
+  }
+ ],
+ "source_label": "",
+ "layout": {
+  "window": [
+   0,
+   595,
+   1080,
+   1325
+  ],
+  "caption_band": [
+   406,
+   595
+  ],
+  "title_y": [
+   [
+    289,
+    355
+   ]
+  ],
+  "logo_y": [
+   110,
+   212
+  ],
+  "logo_x": [
+   356,
+   1040
+  ],
+  "source_y": null,
+  "source_hex": null,
+  "bg_hex": "#002721",
+  "watermark": {
+   "what": "'@클릭 노트' 흐린 흰 글 — 영상 창 가운데 아래(눈)",
+   "alpha": 0.5
+  },
+  "ad_mark": {
+   "text": "[광고]",
+   "where": "위 띠 오른쪽(로고 줄 끝 x≈960~1040)",
+   "t": "0~끝"
+  }
+ },
+ "lines": [
+  {
+   "t0": 0.0,
+   "t1": 2.7,
+   "speaker": "나레",
+   "text": "미용실 원장도 감탄한 / 천재의 발명품",
+   "layer": "제목",
+   "read": true,
+   "role": "훅",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 표지 막이 걷히며 본 틀로",
+   "variant": "표지 카드 — 흰 1줄 + 파랑 2줄(검은 테) + 아래 흰 상자 작은 글 '미용실 원장도 감탄한 천재의 발명품?'",
+   "emph": [
+    {
+     "word": "천재의 발명품",
+     "hex": "#0B8FF0"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "표지 카드 — 머리에 무언가 바르는 여성 위 밝은 막 + 큰 두 줄 제목(흰/파랑) + 흰 상자 작은 제목",
+   "fit": 6,
+   "motion": "cam",
+   "transition": "none",
+   "y": [
+    220,
+    640
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 1000,
+   "fill_hex": "#FFFFFF",
+   "font": {
+    "name": "미일치(BMDOHYEON 눈 대체)",
+    "basis": "fontmatch 0.46 — 미일치"
+   },
+   "size_px": 110,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 6,
+    "hex": "#000000"
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 0.95,
+    "pad": [
+     20,
+     12
+    ],
+    "radius": 6
+   },
+   "confidence": "눈(글·자리) · 신호(시각 — 위 띠 색 바뀜)",
+   "notes": "나레가 표지 제목을 읽음(받아쓰기 첫 구간)",
+   "cut_at": [
+    2.633
+   ],
+   "words": [
+    {
+     "t0": 0.0,
+     "t1": 0.26,
+     "text": "와"
+    },
+    {
+     "t0": 0.26,
+     "t1": 0.74,
+     "text": "미용실"
+    },
+    {
+     "t0": 0.74,
+     "t1": 1.12,
+     "text": "원장도"
+    },
+    {
+     "t0": 1.12,
+     "t1": 1.54,
+     "text": "감탄한"
+    },
+    {
+     "t0": 1.54,
+     "t1": 2.04,
+     "text": "천재의"
+    },
+    {
+     "t0": 2.04,
+     "t1": 2.5,
+     "text": "발명품"
+    },
+    {
+     "t0": 2.5,
+     "t1": 3.02,
+     "text": "두피의"
+    }
+   ],
+   "loud": [
+    -14.5,
+    -13.5,
+    -13.8,
+    -15.5,
+    -21.2,
+    -18.3,
+    -21.9,
+    -18.1,
+    -18.8,
+    -21.1,
+    -24.0
+   ]
+  },
+  {
+   "t0": 2.7,
+   "t1": 4.3,
+   "speaker": "나레",
+   "text": "두피에 오일 바르다",
+   "layer": "해설",
+   "read": true,
+   "role": "다리",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 강조 없음",
+   "emph": [],
+   "sticker": [],
+   "sfx": null,
+   "scene": "얼굴",
+   "scene_desc": "여성이 두피에 빗을 댐",
+   "fit": 6,
+   "motion": "cam",
+   "transition": "none",
+   "y": [
+    467,
+    546
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0A0A",
+   "font": {
+    "name": "미일치(TmonMonsori 0.535 · Cafe24Ohsquare 0.529)",
+    "basis": "fontmatch O8 3.5초 — 0.5 근처라 미일치"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)",
+   "notes": "",
+   "cut_at": [],
+   "words": [
+    {
+     "t0": 2.5,
+     "t1": 3.02,
+     "text": "두피의"
+    },
+    {
+     "t0": 3.02,
+     "t1": 3.22,
+     "text": "오일"
+    },
+    {
+     "t0": 3.22,
+     "t1": 3.5,
+     "text": "바르다"
+    },
+    {
+     "t0": 3.5,
+     "t1": 3.9,
+     "text": "훌러내리고"
+    },
+    {
+     "t0": 3.9,
+     "t1": 4.3,
+     "text": "낭비대던"
+    }
+   ],
+   "loud": [
+    -24.0,
+    -16.6,
+    -15.3,
+    -17.8,
+    -15.4,
+    -16.7,
+    -19.7,
+    -19.7
+   ]
+  },
+  {
+   "t0": 4.3,
+   "t1": 5.9,
+   "speaker": "나레",
+   "text": "사람들 사이에서",
+   "layer": "해설",
+   "read": true,
+   "role": "다리",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 강조 없음",
+   "emph": [],
+   "sticker": [],
+   "sfx": null,
+   "scene": "얼굴",
+   "scene_desc": "여성 두피 근접",
+   "fit": 5,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    467,
+    546
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0A0A",
+   "font": {
+    "name": "미일치(TmonMonsori 0.535 · Cafe24Ohsquare 0.529)",
+    "basis": "fontmatch O8 3.5초 — 0.5 근처라 미일치"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)",
+   "notes": "",
+   "cut_at": [
+    4.3,
+    5.867
+   ],
+   "words": [
+    {
+     "t0": 4.3,
+     "t1": 4.5,
+     "text": "사람들"
+    },
+    {
+     "t0": 4.5,
+     "t1": 5.0,
+     "text": "사이에서"
+    },
+    {
+     "t0": 5.0,
+     "t1": 5.32,
+     "text": "난리가"
+    },
+    {
+     "t0": 5.32,
+     "t1": 5.7,
+     "text": "났다는데"
+    },
+    {
+     "t0": 5.7,
+     "t1": 6.12,
+     "text": "이건"
+    }
+   ],
+   "loud": [
+    -19.7,
+    -21.2,
+    -21.0,
+    -25.0,
+    -18.8,
+    -23.1,
+    -24.5
+   ]
+  },
+  {
+   "t0": 5.9,
+   "t1": 6.4,
+   "speaker": "나레",
+   "text": "이건 바로",
+   "layer": "해설",
+   "read": true,
+   "role": "이음",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 강조 없음",
+   "emph": [],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "빗 제품 근접",
+   "fit": 6,
+   "motion": "cam",
+   "transition": "none",
+   "y": [
+    467,
+    546
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0A0A",
+   "font": {
+    "name": "미일치(TmonMonsori 0.535 · Cafe24Ohsquare 0.529)",
+    "basis": "fontmatch O8 3.5초 — 0.5 근처라 미일치"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)",
+   "notes": "",
+   "cut_at": [],
+   "words": [
+    {
+     "t0": 5.7,
+     "t1": 6.12,
+     "text": "이건"
+    },
+    {
+     "t0": 6.12,
+     "t1": 6.28,
+     "text": "바로"
+    },
+    {
+     "t0": 6.28,
+     "t1": 6.66,
+     "text": "두피"
+    }
+   ],
+   "loud": [
+    -24.5,
+    -14.7,
+    -17.6
+   ]
+  },
+  {
+   "t0": 6.4,
+   "t1": 7.3,
+   "speaker": "나레",
+   "text": "두피 어플리케이터 빗",
+   "layer": "해설",
+   "read": true,
+   "role": "공개",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 강조 없음",
+   "emph": [],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "빗을 손에 듦",
+   "fit": 8,
+   "motion": "cam",
+   "transition": "none",
+   "y": [
+    467,
+    546
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0A0A",
+   "font": {
+    "name": "미일치(TmonMonsori 0.535 · Cafe24Ohsquare 0.529)",
+    "basis": "fontmatch O8 3.5초 — 0.5 근처라 미일치"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)",
+   "notes": "",
+   "cut_at": [],
+   "words": [
+    {
+     "t0": 6.28,
+     "t1": 6.66,
+     "text": "두피"
+    },
+    {
+     "t0": 6.66,
+     "t1": 7.18,
+     "text": "어플리케이터"
+    },
+    {
+     "t0": 7.18,
+     "t1": 7.36,
+     "text": "빛"
+    }
+   ],
+   "loud": [
+    -17.6,
+    -18.6,
+    -20.9,
+    -23.2,
+    -26.2
+   ]
+  },
+  {
+   "t0": 7.3,
+   "t1": 8.2,
+   "speaker": "나레",
+   "text": "이게 말도 안 되는게",
+   "layer": "해설",
+   "read": true,
+   "role": "이음",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 강조 없음",
+   "emph": [],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "빗 근접",
+   "fit": 5,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    467,
+    546
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0A0A",
+   "font": {
+    "name": "미일치(TmonMonsori 0.535 · Cafe24Ohsquare 0.529)",
+    "basis": "fontmatch O8 3.5초 — 0.5 근처라 미일치"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)",
+   "notes": "",
+   "cut_at": [
+    7.4
+   ],
+   "words": [
+    {
+     "t0": 7.18,
+     "t1": 7.36,
+     "text": "빛"
+    },
+    {
+     "t0": 7.36,
+     "t1": 7.64,
+     "text": "이게"
+    },
+    {
+     "t0": 7.64,
+     "t1": 7.86,
+     "text": "말도"
+    },
+    {
+     "t0": 7.86,
+     "t1": 8.0,
+     "text": "안"
+    },
+    {
+     "t0": 8.0,
+     "t1": 8.1,
+     "text": "되는"
+    },
+    {
+     "t0": 8.1,
+     "t1": 8.26,
+     "text": "게"
+    }
+   ],
+   "loud": [
+    -26.2,
+    -16.4,
+    -13.7,
+    -15.8
+   ]
+  },
+  {
+   "t0": 8.2,
+   "t1": 9.1,
+   "speaker": "나레",
+   "text": "스포이트로 바르다",
+   "layer": "해설",
+   "read": true,
+   "role": "본문",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 강조 없음",
+   "emph": [],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "스포이트로 두피에 바름",
+   "fit": 8,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    467,
+    546
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0A0A",
+   "font": {
+    "name": "미일치(TmonMonsori 0.535 · Cafe24Ohsquare 0.529)",
+    "basis": "fontmatch O8 3.5초 — 0.5 근처라 미일치"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)",
+   "notes": "",
+   "cut_at": [
+    8.467
+   ],
+   "words": [
+    {
+     "t0": 8.1,
+     "t1": 8.26,
+     "text": "게"
+    },
+    {
+     "t0": 8.26,
+     "t1": 8.76,
+     "text": "스포이트로"
+    },
+    {
+     "t0": 8.76,
+     "t1": 9.1,
+     "text": "바르다"
+    }
+   ],
+   "loud": [
+    -15.8,
+    -20.2,
+    -18.6,
+    -20.6,
+    -23.5
+   ]
+  },
+  {
+   "t0": 9.1,
+   "t1": 9.7,
+   "speaker": "나레",
+   "text": "목으로 주르륵",
+   "layer": "해설",
+   "read": true,
+   "role": "본문",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 강조 없음",
+   "emph": [],
+   "sticker": [],
+   "sfx": null,
+   "scene": "얼굴",
+   "scene_desc": "두피 근접",
+   "fit": 6,
+   "motion": "cam",
+   "transition": "none",
+   "y": [
+    467,
+    546
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0A0A",
+   "font": {
+    "name": "미일치(TmonMonsori 0.535 · Cafe24Ohsquare 0.529)",
+    "basis": "fontmatch O8 3.5초 — 0.5 근처라 미일치"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)",
+   "notes": "",
+   "cut_at": [],
+   "words": [
+    {
+     "t0": 9.1,
+     "t1": 9.46,
+     "text": "목으로"
+    },
+    {
+     "t0": 9.46,
+     "t1": 9.78,
+     "text": "주르르"
+    }
+   ],
+   "loud": [
+    -23.5,
+    -17.7,
+    -19.8
+   ]
+  },
+  {
+   "t0": 9.7,
+   "t1": 10.9,
+   "speaker": "나레",
+   "text": "흘러내리던 지옥을",
+   "layer": "해설",
+   "read": true,
+   "role": "본문",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 강조 없음",
+   "emph": [],
+   "sticker": [],
+   "sfx": null,
+   "scene": "얼굴",
+   "scene_desc": "두피 근접",
+   "fit": 5,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    467,
+    546
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0A0A",
+   "font": {
+    "name": "미일치(TmonMonsori 0.535 · Cafe24Ohsquare 0.529)",
+    "basis": "fontmatch O8 3.5초 — 0.5 근처라 미일치"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)",
+   "notes": "",
+   "cut_at": [
+    10.833
+   ],
+   "words": [
+    {
+     "t0": 9.46,
+     "t1": 9.78,
+     "text": "주르르"
+    },
+    {
+     "t0": 9.78,
+     "t1": 10.3,
+     "text": "훌러내리던"
+    },
+    {
+     "t0": 10.3,
+     "t1": 10.84,
+     "text": "지옥을"
+    },
+    {
+     "t0": 10.84,
+     "t1": 11.24,
+     "text": "얼굴까지"
+    }
+   ],
+   "loud": [
+    -19.8,
+    -16.7,
+    -18.2,
+    -22.2,
+    -25.0,
+    -17.7
+   ]
+  },
+  {
+   "t0": 10.9,
+   "t1": 11.8,
+   "speaker": "나레",
+   "text": "얼굴까지 다 젖고",
+   "layer": "해설",
+   "read": true,
+   "role": "본문",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 강조 없음",
+   "emph": [],
+   "sticker": [],
+   "sfx": null,
+   "scene": "얼굴",
+   "scene_desc": "여성 얼굴 옆",
+   "fit": 5,
+   "motion": "cam",
+   "transition": "none",
+   "y": [
+    467,
+    546
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0A0A",
+   "font": {
+    "name": "미일치(TmonMonsori 0.535 · Cafe24Ohsquare 0.529)",
+    "basis": "fontmatch O8 3.5초 — 0.5 근처라 미일치"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)",
+   "notes": "",
+   "cut_at": [],
+   "words": [
+    {
+     "t0": 10.84,
+     "t1": 11.24,
+     "text": "얼굴까지"
+    },
+    {
+     "t0": 11.24,
+     "t1": 11.68,
+     "text": "다져도"
+    },
+    {
+     "t0": 11.68,
+     "t1": 12.06,
+     "text": "아까운"
+    }
+   ],
+   "loud": [
+    -17.7,
+    -14.4,
+    -20.4,
+    -19.6,
+    -15.2
+   ]
+  },
+  {
+   "t0": 11.8,
+   "t1": 12.9,
+   "speaker": "나레",
+   "text": "아까운 세럼 다 버리던 걸",
+   "layer": "해설",
+   "read": true,
+   "role": "본문",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 강조 없음",
+   "emph": [],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "빗에 세럼을 채움",
+   "fit": 6,
+   "motion": "cam",
+   "transition": "none",
+   "y": [
+    467,
+    546
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0A0A",
+   "font": {
+    "name": "미일치(TmonMonsori 0.535 · Cafe24Ohsquare 0.529)",
+    "basis": "fontmatch O8 3.5초 — 0.5 근처라 미일치"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)",
+   "notes": "",
+   "cut_at": [],
+   "words": [
+    {
+     "t0": 11.68,
+     "t1": 12.06,
+     "text": "아까운"
+    },
+    {
+     "t0": 12.06,
+     "t1": 12.26,
+     "text": "세럼"
+    },
+    {
+     "t0": 12.26,
+     "t1": 12.4,
+     "text": "다"
+    },
+    {
+     "t0": 12.4,
+     "t1": 12.7,
+     "text": "버리던"
+    },
+    {
+     "t0": 12.7,
+     "t1": 12.98,
+     "text": "걸"
+    }
+   ],
+   "loud": [
+    -15.2,
+    -18.5,
+    -27.3,
+    -19.4,
+    -30.5
+   ]
+  },
+  {
+   "t0": 12.9,
+   "t1": 13.9,
+   "speaker": "나레",
+   "text": "누르는 만큼만 나오게",
+   "layer": "해설",
+   "read": true,
+   "role": "본문",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 강조 없음",
+   "emph": [],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "빗을 눌러 세럼이 나옴",
+   "fit": 8,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    467,
+    546
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0A0A",
+   "font": {
+    "name": "미일치(TmonMonsori 0.535 · Cafe24Ohsquare 0.529)",
+    "basis": "fontmatch O8 3.5초 — 0.5 근처라 미일치"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)",
+   "notes": "",
+   "cut_at": [
+    13.0
+   ],
+   "words": [
+    {
+     "t0": 12.7,
+     "t1": 12.98,
+     "text": "걸"
+    },
+    {
+     "t0": 12.98,
+     "t1": 13.62,
+     "text": "누르는만큼만"
+    },
+    {
+     "t0": 13.62,
+     "t1": 13.96,
+     "text": "나오게"
+    }
+   ],
+   "loud": [
+    -30.5,
+    -14.5,
+    -15.4,
+    -17.8,
+    -18.8
+   ]
+  },
+  {
+   "t0": 13.9,
+   "t1": 15.3,
+   "speaker": "나레",
+   "text": "압력으로 싹 고정해 버렸다는 거",
+   "layer": "해설",
+   "read": true,
+   "role": "본문",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 강조 없음",
+   "emph": [],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "빗 끝 근접",
+   "fit": 7,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    467,
+    546
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0A0A",
+   "font": {
+    "name": "미일치(TmonMonsori 0.535 · Cafe24Ohsquare 0.529)",
+    "basis": "fontmatch O8 3.5초 — 0.5 근처라 미일치"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)",
+   "notes": "",
+   "cut_at": [
+    13.933,
+    14.867
+   ],
+   "words": [
+    {
+     "t0": 13.62,
+     "t1": 13.96,
+     "text": "나오게"
+    },
+    {
+     "t0": 13.96,
+     "t1": 14.38,
+     "text": "압력으로"
+    },
+    {
+     "t0": 14.38,
+     "t1": 14.54,
+     "text": "싹"
+    },
+    {
+     "t0": 14.54,
+     "t1": 15.12,
+     "text": "고정해버렸다는"
+    },
+    {
+     "t0": 15.12,
+     "t1": 15.34,
+     "text": "거"
+    }
+   ],
+   "loud": [
+    -18.8,
+    -18.5,
+    -23.5,
+    -20.9,
+    -17.1,
+    -21.9,
+    -27.7
+   ]
+  },
+  {
+   "t0": 15.3,
+   "t1": 16.5,
+   "speaker": "나레",
+   "text": "심지어 부스스하게",
+   "layer": "해설",
+   "read": true,
+   "role": "본문",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 강조 없음",
+   "emph": [],
+   "sticker": [],
+   "sfx": null,
+   "scene": "얼굴",
+   "scene_desc": "부스스한 머리",
+   "fit": 6,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    467,
+    546
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0A0A",
+   "font": {
+    "name": "미일치(TmonMonsori 0.535 · Cafe24Ohsquare 0.529)",
+    "basis": "fontmatch O8 3.5초 — 0.5 근처라 미일치"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)",
+   "notes": "",
+   "cut_at": [
+    15.433
+   ],
+   "words": [
+    {
+     "t0": 15.12,
+     "t1": 15.34,
+     "text": "거"
+    },
+    {
+     "t0": 15.34,
+     "t1": 15.88,
+     "text": "심지어"
+    },
+    {
+     "t0": 15.88,
+     "t1": 16.4,
+     "text": "부스스하게"
+    },
+    {
+     "t0": 16.4,
+     "t1": 16.82,
+     "text": "심하게"
+    }
+   ],
+   "loud": [
+    -27.7,
+    -16.2,
+    -15.7,
+    -19.4,
+    -24.1,
+    -17.7
+   ]
+  },
+  {
+   "t0": 16.5,
+   "t1": 17.9,
+   "speaker": "나레",
+   "text": "심하게 엉킨 머리를 빗을 때",
+   "layer": "해설",
+   "read": true,
+   "role": "본문",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 강조 없음",
+   "emph": [],
+   "sticker": [],
+   "sfx": null,
+   "scene": "얼굴",
+   "scene_desc": "엉킨 머리를 빗음",
+   "fit": 8,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    467,
+    546
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0A0A",
+   "font": {
+    "name": "미일치(TmonMonsori 0.535 · Cafe24Ohsquare 0.529)",
+    "basis": "fontmatch O8 3.5초 — 0.5 근처라 미일치"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)",
+   "notes": "",
+   "cut_at": [
+    16.6,
+    16.9
+   ],
+   "words": [
+    {
+     "t0": 16.4,
+     "t1": 16.82,
+     "text": "심하게"
+    },
+    {
+     "t0": 16.82,
+     "t1": 17.36,
+     "text": "엉킷머리를"
+    },
+    {
+     "t0": 17.36,
+     "t1": 17.7,
+     "text": "빗을"
+    },
+    {
+     "t0": 17.7,
+     "t1": 17.82,
+     "text": "때"
+    },
+    {
+     "t0": 17.82,
+     "t1": 18.44,
+     "text": "머리카락이"
+    }
+   ],
+   "loud": [
+    -17.7,
+    -16.5,
+    -17.8,
+    -19.3,
+    -26.6,
+    -31.3
+   ]
+  },
+  {
+   "t0": 17.9,
+   "t1": 19.0,
+   "speaker": "나레",
+   "text": "머리카락이 뜯겨나가며",
+   "layer": "해설",
+   "read": true,
+   "role": "본문",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 강조 없음",
+   "emph": [],
+   "sticker": [],
+   "sfx": null,
+   "scene": "과정",
+   "scene_desc": "빗질 근접",
+   "fit": 7,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    467,
+    546
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0A0A",
+   "font": {
+    "name": "미일치(TmonMonsori 0.535 · Cafe24Ohsquare 0.529)",
+    "basis": "fontmatch O8 3.5초 — 0.5 근처라 미일치"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)",
+   "notes": "",
+   "cut_at": [
+    17.967
+   ],
+   "words": [
+    {
+     "t0": 17.82,
+     "t1": 18.44,
+     "text": "머리카락이"
+    },
+    {
+     "t0": 18.44,
+     "t1": 18.96,
+     "text": "뜯겨나가며"
+    },
+    {
+     "t0": 18.96,
+     "t1": 19.28,
+     "text": "끈끈"
+    }
+   ],
+   "loud": [
+    -31.3,
+    -14.8,
+    -16.3,
+    -17.9,
+    -16.0,
+    -20.1
+   ]
+  },
+  {
+   "t0": 19.0,
+   "t1": 20.1,
+   "speaker": "나레",
+   "text": "끙끙 앓았던 통증을",
+   "layer": "해설",
+   "read": true,
+   "role": "본문",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 강조 없음",
+   "emph": [],
+   "sticker": [],
+   "sfx": null,
+   "scene": "얼굴",
+   "scene_desc": "여성이 빗질함",
+   "fit": 6,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    467,
+    546
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0A0A",
+   "font": {
+    "name": "미일치(TmonMonsori 0.535 · Cafe24Ohsquare 0.529)",
+    "basis": "fontmatch O8 3.5초 — 0.5 근처라 미일치"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)",
+   "notes": "",
+   "cut_at": [
+    19.1
+   ],
+   "words": [
+    {
+     "t0": 18.96,
+     "t1": 19.28,
+     "text": "끈끈"
+    },
+    {
+     "t0": 19.28,
+     "t1": 19.58,
+     "text": "알았던"
+    },
+    {
+     "t0": 19.58,
+     "t1": 20.06,
+     "text": "통증을"
+    },
+    {
+     "t0": 20.06,
+     "t1": 20.54,
+     "text": "볼림없이"
+    }
+   ],
+   "loud": [
+    -20.1,
+    -18.7,
+    -22.3,
+    -24.5,
+    -18.7
+   ]
+  },
+  {
+   "t0": 20.1,
+   "t1": 20.7,
+   "speaker": "나레",
+   "text": "걸림 없이",
+   "layer": "해설",
+   "read": true,
+   "role": "본문",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 강조 없음",
+   "emph": [],
+   "sticker": [],
+   "sfx": null,
+   "scene": "과정",
+   "scene_desc": "빗이 머리를 지나감",
+   "fit": 8,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    467,
+    546
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0A0A",
+   "font": {
+    "name": "미일치(TmonMonsori 0.535 · Cafe24Ohsquare 0.529)",
+    "basis": "fontmatch O8 3.5초 — 0.5 근처라 미일치"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)",
+   "notes": "",
+   "cut_at": [
+    20.133
+   ],
+   "words": [
+    {
+     "t0": 20.06,
+     "t1": 20.54,
+     "text": "볼림없이"
+    },
+    {
+     "t0": 20.54,
+     "t1": 21.06,
+     "text": "사르드"
+    }
+   ],
+   "loud": [
+    -18.7,
+    -14.4,
+    -23.9
+   ]
+  },
+  {
+   "t0": 20.7,
+   "t1": 21.5,
+   "speaker": "나레",
+   "text": "사르르 차분하게",
+   "layer": "해설",
+   "read": true,
+   "role": "본문",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 강조 없음",
+   "emph": [],
+   "sticker": [],
+   "sfx": null,
+   "scene": "과정",
+   "scene_desc": "빗질 후 머리",
+   "fit": 7,
+   "motion": "cam",
+   "transition": "none",
+   "y": [
+    467,
+    546
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0A0A",
+   "font": {
+    "name": "미일치(TmonMonsori 0.535 · Cafe24Ohsquare 0.529)",
+    "basis": "fontmatch O8 3.5초 — 0.5 근처라 미일치"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)",
+   "notes": "",
+   "cut_at": [],
+   "words": [
+    {
+     "t0": 20.54,
+     "t1": 21.06,
+     "text": "사르드"
+    },
+    {
+     "t0": 21.06,
+     "t1": 21.52,
+     "text": "차분하게"
+    }
+   ],
+   "loud": [
+    -23.9,
+    -16.9,
+    -25.2,
+    -16.5,
+    -17.7
+   ]
+  },
+  {
+   "t0": 21.5,
+   "t1": 22.3,
+   "speaker": "나레",
+   "text": "풀어 버렸다는 거",
+   "layer": "해설",
+   "read": true,
+   "role": "본문",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 강조 없음",
+   "emph": [],
+   "sticker": [],
+   "sfx": null,
+   "scene": "과정",
+   "scene_desc": "빗질 근접",
+   "fit": 6,
+   "motion": "cam",
+   "transition": "none",
+   "y": [
+    467,
+    546
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0A0A",
+   "font": {
+    "name": "미일치(TmonMonsori 0.535 · Cafe24Ohsquare 0.529)",
+    "basis": "fontmatch O8 3.5초 — 0.5 근처라 미일치"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)",
+   "notes": "",
+   "cut_at": [],
+   "words": [
+    {
+     "t0": 21.06,
+     "t1": 21.52,
+     "text": "차분하게"
+    },
+    {
+     "t0": 21.52,
+     "t1": 22.06,
+     "text": "풀어버렸다는"
+    },
+    {
+     "t0": 22.06,
+     "t1": 22.36,
+     "text": "거"
+    }
+   ],
+   "loud": [
+    -17.7,
+    -16.4,
+    -21.8,
+    -19.9
+   ]
+  },
+  {
+   "t0": 22.3,
+   "t1": 23.0,
+   "speaker": "나레",
+   "text": "더 대박인 건",
+   "layer": "해설",
+   "read": true,
+   "role": "이음",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 강조 없음",
+   "emph": [],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "빗 근접",
+   "fit": 4,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    467,
+    546
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0A0A",
+   "font": {
+    "name": "미일치(TmonMonsori 0.535 · Cafe24Ohsquare 0.529)",
+    "basis": "fontmatch O8 3.5초 — 0.5 근처라 미일치"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)",
+   "notes": "",
+   "cut_at": [
+    22.367
+   ],
+   "words": [
+    {
+     "t0": 22.06,
+     "t1": 22.36,
+     "text": "거"
+    },
+    {
+     "t0": 22.36,
+     "t1": 22.58,
+     "text": "더"
+    },
+    {
+     "t0": 22.58,
+     "t1": 22.94,
+     "text": "대박인"
+    },
+    {
+     "t0": 22.94,
+     "t1": 23.04,
+     "text": "건"
+    }
+   ],
+   "loud": [
+    -19.9,
+    -24.8,
+    -18.9,
+    -18.9
+   ]
+  },
+  {
+   "t0": 23.0,
+   "t1": 23.8,
+   "speaker": "나레",
+   "text": "실리콘 캡으로 덮어",
+   "layer": "해설",
+   "read": true,
+   "role": "고조",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 강조 없음",
+   "emph": [],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "빗에 캡을 씌움",
+   "fit": 8,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    467,
+    546
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0A0A",
+   "font": {
+    "name": "미일치(TmonMonsori 0.535 · Cafe24Ohsquare 0.529)",
+    "basis": "fontmatch O8 3.5초 — 0.5 근처라 미일치"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)",
+   "notes": "",
+   "cut_at": [
+    23.1
+   ],
+   "words": [
+    {
+     "t0": 22.94,
+     "t1": 23.04,
+     "text": "건"
+    },
+    {
+     "t0": 23.04,
+     "t1": 23.48,
+     "text": "칠리콘"
+    },
+    {
+     "t0": 23.48,
+     "t1": 23.7,
+     "text": "캡으로"
+    },
+    {
+     "t0": 23.7,
+     "t1": 23.96,
+     "text": "덮어"
+    }
+   ],
+   "loud": [
+    -18.9,
+    -17.8,
+    -20.0,
+    -15.8
+   ]
+  },
+  {
+   "t0": 23.8,
+   "t1": 24.7,
+   "speaker": "나레",
+   "text": "가방에 쏙 넣어도",
+   "layer": "해설",
+   "read": true,
+   "role": "고조",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 강조 없음",
+   "emph": [],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "가방에 넣음",
+   "fit": 8,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    467,
+    546
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0A0A",
+   "font": {
+    "name": "미일치(TmonMonsori 0.535 · Cafe24Ohsquare 0.529)",
+    "basis": "fontmatch O8 3.5초 — 0.5 근처라 미일치"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)",
+   "notes": "",
+   "cut_at": [
+    23.9
+   ],
+   "words": [
+    {
+     "t0": 23.7,
+     "t1": 23.96,
+     "text": "덮어"
+    },
+    {
+     "t0": 23.96,
+     "t1": 24.3,
+     "text": "가방에"
+    },
+    {
+     "t0": 24.3,
+     "t1": 24.44,
+     "text": "쏙"
+    },
+    {
+     "t0": 24.44,
+     "t1": 24.78,
+     "text": "넣어도"
+    }
+   ],
+   "loud": [
+    -15.8,
+    -17.5,
+    -17.8,
+    -15.3
+   ]
+  },
+  {
+   "t0": 24.7,
+   "t1": 25.3,
+   "speaker": "나레",
+   "text": "샐 걱정 없이",
+   "layer": "해설",
+   "read": true,
+   "role": "고조",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 강조 없음",
+   "emph": [],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "가방 속 빗",
+   "fit": 6,
+   "motion": "cam",
+   "transition": "none",
+   "y": [
+    467,
+    546
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0A0A",
+   "font": {
+    "name": "미일치(TmonMonsori 0.535 · Cafe24Ohsquare 0.529)",
+    "basis": "fontmatch O8 3.5초 — 0.5 근처라 미일치"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)",
+   "notes": "",
+   "cut_at": [],
+   "words": [
+    {
+     "t0": 24.44,
+     "t1": 24.78,
+     "text": "넣어도"
+    },
+    {
+     "t0": 24.78,
+     "t1": 24.96,
+     "text": "새"
+    },
+    {
+     "t0": 24.96,
+     "t1": 25.12,
+     "text": "걱정"
+    },
+    {
+     "t0": 25.12,
+     "t1": 25.42,
+     "text": "없이"
+    }
+   ],
+   "loud": [
+    -15.3,
+    -16.7,
+    -17.7,
+    -16.5
+   ]
+  },
+  {
+   "t0": 25.3,
+   "t1": 26.7,
+   "speaker": "나레",
+   "text": "위생적으로 챙겨 다닌다고",
+   "layer": "해설",
+   "read": true,
+   "role": "고조",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 강조 없음",
+   "emph": [],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "빗을 꺼냄",
+   "fit": 6,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    467,
+    546
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0A0A",
+   "font": {
+    "name": "미일치(TmonMonsori 0.535 · Cafe24Ohsquare 0.529)",
+    "basis": "fontmatch O8 3.5초 — 0.5 근처라 미일치"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)",
+   "notes": "",
+   "cut_at": [
+    25.4
+   ],
+   "words": [
+    {
+     "t0": 25.12,
+     "t1": 25.42,
+     "text": "없이"
+    },
+    {
+     "t0": 25.42,
+     "t1": 26.0,
+     "text": "위생적으로"
+    },
+    {
+     "t0": 26.0,
+     "t1": 26.56,
+     "text": "챙겨다닌다고"
+    },
+    {
+     "t0": 26.56,
+     "t1": 26.96,
+     "text": "벌써"
+    }
+   ],
+   "loud": [
+    -16.5,
+    -18.8,
+    -14.7,
+    -17.8,
+    -15.5,
+    -27.9
+   ]
+  },
+  {
+   "t0": 26.7,
+   "t1": 27.8,
+   "speaker": "나레",
+   "text": "벌써 품절 난리라는데",
+   "layer": "해설",
+   "read": true,
+   "role": "끝",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 강조 없음",
+   "emph": [],
+   "sticker": [],
+   "sfx": null,
+   "scene": "얼굴",
+   "scene_desc": "여성이 빗질",
+   "fit": 5,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    467,
+    546
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0A0A",
+   "font": {
+    "name": "미일치(TmonMonsori 0.535 · Cafe24Ohsquare 0.529)",
+    "basis": "fontmatch O8 3.5초 — 0.5 근처라 미일치"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)",
+   "notes": "",
+   "cut_at": [
+    26.767
+   ],
+   "words": [
+    {
+     "t0": 26.56,
+     "t1": 26.96,
+     "text": "벌써"
+    },
+    {
+     "t0": 26.96,
+     "t1": 27.32,
+     "text": "품절"
+    },
+    {
+     "t0": 27.32,
+     "t1": 27.76,
+     "text": "난리라는데?"
+    }
+   ],
+   "loud": [
+    -27.9,
+    -20.5,
+    -21.9,
+    -18.4,
+    -15.8,
+    -21.8
+   ]
+  }
+ ],
+ "no_caption": [],
+ "beats": "훅(0~2.7 표지 나레) → 다리(2.7~5.9 '두피에 오일 바르다 … 사람들 사이에서') → 공개(5.9~7.4 '이건 바로 두피 어플리케이터 빗') → 본문(7.4~15.3 '이게 말도 안 되는게' 기존 불편 → 해결 '~버렸다는 거') → 본문(15.3~22.3 '심지어' 둘째 장점) → 고조(22.3~26.7 '더 대박인 건') → 끝(26.7~27.8 '벌써 품절 난리라는데')",
+ "narr_share": "나레 줄 26/26 · 받아쓰기 말 구간 0.989",
+ "name_evidence": [],
+ "frame0": {
+  "what": "표지 카드 — 머리에 무언가 바르는 여성 위 밝은 막 + 큰 두 줄 제목(흰/파랑) + 흰 상자 작은 제목",
+  "face_frac": 0.25,
+  "text": "미용실 원장도 감탄한 / 천재의 발명품 / 미용실 원장도 감탄한 천재의 발명품?"
+ },
+ "notes": [
+  "이 편(9월 말)은 강조 낱말 없음 — 검은 글만(10월 13일 뒤 편들은 낱말 따라 파랑 강조)",
+  "5.9~12.9 는 기계가 한 덩어리로 묶음 → 0.3초 띠(strip_5.9.jpg)로 7줄로 나눔",
+  "받아쓰기 = 위스퍼(낱말 시각 정밀도 낮음)",
+  "효과음·BGM 이름 = 미측정 — agy·분리 도구 없음"
+ ]
+}

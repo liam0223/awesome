@@ -24,6 +24,7 @@ copywork/                              ← 작업 폴더(영문). 한글·공백
   장점기록표.json                      ← 채널마다 장점메모.md 를 모은 것(업그레이드 단계)
   _tools/                              ← 클로드가 짠 도구(check_preset.py · render.py · match.py …, 다음 채널에서도 다시 씀)
   _assets/                             ← 내 재료 창고: bgm/<id>.mp3 · bgm_list.json · sfx/<영문>.mp3 · fonts.json
+  _assets/sfx/pack<NN>/                ← 효과음 팩(숏클 팩 21개 · 편마다 랜덤 — 클릭노트 2026-11-08 더함)
   ch_<슬러그>/                         ← 채널마다 작업 폴더
     00_progress.md                     ← 단계표(진행 한 줄)
     01_select/   top.json · 선정표.md · 전체목록.json · 메타표.md · 길이분포.png
@@ -31,6 +32,7 @@ copywork/                              ← 작업 폴더(영문). 한글·공백
     03_tear/<영상id>/   뜯기.json · sheet_1s.jpg · 정밀.json
     04_frames/<영상id>/ sheet_2fps.jpg · strips_01s/<초>.jpg · 판독목록.json
     04_frames/fontset/  글꼴 모음 그림(분위기마다 새 글꼴이 보인 장면)
+    04_frames/<영상id>/줄판독_입력.json  ← 클로드 눈 판독(build_lines_cn.py 가 읽어 05_lines/<영상id>.json 을 만든다 — 클릭노트 2026-11-08 더함)
     05_lines/    <영상id>.json · 줄판독_브리프.md
     06_rules/    규칙빈도.json · 규칙빈도.md · 대본말꼴.md · 팔레트.json · 스타일분석_초안.md · 스타일분석.md · 반대검사.md
     07_pan/      판.json · 판_업그레이드.json · 판_만든기록.md · 업그레이드_기록.md · 하이브리드_설계.md · 기능_만들목록.md · frame_<영상id>.json · 발음사전.json

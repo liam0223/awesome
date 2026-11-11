@@ -1,0 +1,3390 @@
+{
+ "id": "3kb2fopXnIw",
+ "dur": 41.424,
+ "fps": 30.0,
+ "size": [
+  1080,
+  1920
+ ],
+ "form": "정보(발명품 소개)",
+ "title_lines": [
+  {
+   "text": "한국천재의 발명품?",
+   "colors": [
+    {
+     "word": "한국천재의 발명품?",
+     "hex": "#43DFB6"
+    }
+   ]
+  }
+ ],
+ "source_label": "",
+ "layout": {
+  "window": [
+   0,
+   596,
+   1080,
+   1324
+  ],
+  "caption_band": [
+   403,
+   595
+  ],
+  "title_y": [
+   [
+    234,
+    334
+   ]
+  ],
+  "logo_y": [
+   87,
+   168
+  ],
+  "logo_x": [
+   400,
+   684
+  ],
+  "source_y": null,
+  "source_hex": null,
+  "bg_hex": "#072723",
+  "watermark": {
+   "what": "'@클릭 노트' 흐린 흰 글 — 영상 창 가운데 아래(눈)",
+   "alpha": 0.5
+  },
+  "ad_mark": {
+   "text": "[광고]",
+   "where": "위 띠 오른쪽(로고 줄 끝 x≈960~1040)",
+   "t": "0~끝"
+  }
+ },
+ "lines": [
+  {
+   "t0": 0.0,
+   "t1": 4.0,
+   "speaker": "나레",
+   "text": "연필 108개를 때려넣은 샤프를 만든 / 한국천재의 발명품",
+   "layer": "제목",
+   "read": true,
+   "role": "훅",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 표지 막이 걷히며 본 틀로",
+   "variant": "표지 카드 — 흰 1줄 + 파랑 2줄(검은 테) + 아래 흰 상자 작은 글 '한국천재의 발명품?'",
+   "emph": [
+    {
+     "word": "한국천재의 발명품",
+     "hex": "#0B8FF0"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "표지 카드 — 펜을 든 손 장면 위 밝은 막 + 큰 두 줄 제목(흰 작게/파랑 크게) + 흰 상자 작은 제목",
+   "fit": 6,
+   "motion": "cam",
+   "transition": "none",
+   "y": [
+    220,
+    640
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 1000,
+   "fill_hex": "#FFFFFF",
+   "font": {
+    "name": "미일치(BMDOHYEON 눈 대체)",
+    "basis": "fontmatch 0.46 — 미일치"
+   },
+   "size_px": 110,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 6,
+    "hex": "#000000"
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 0.95,
+    "pad": [
+     20,
+     12
+    ],
+    "radius": 6
+   },
+   "confidence": "눈",
+   "notes": "나레가 표지 제목을 읽음(받아쓰기 첫 구간)",
+   "cut_at": [
+    0.767,
+    1.833,
+    2.7,
+    3.967
+   ],
+   "words": [
+    {
+     "t0": 0.6,
+     "t1": 1.02,
+     "text": "연필"
+    },
+    {
+     "t0": 1.02,
+     "t1": 1.5,
+     "text": "108개를"
+    },
+    {
+     "t0": 1.5,
+     "t1": 2.0,
+     "text": "때려놓은"
+    },
+    {
+     "t0": 2.0,
+     "t1": 2.26,
+     "text": "샤프를"
+    },
+    {
+     "t0": 2.26,
+     "t1": 2.52,
+     "text": "만든"
+    },
+    {
+     "t0": 2.52,
+     "t1": 2.92,
+     "text": "한국"
+    },
+    {
+     "t0": 2.92,
+     "t1": 3.38,
+     "text": "천재의"
+    },
+    {
+     "t0": 3.38,
+     "t1": 3.8,
+     "text": "발명품."
+    },
+    {
+     "t0": 3.98,
+     "t1": 4.44,
+     "text": "연필은"
+    }
+   ],
+   "loud": [
+    -120.0,
+    -120.0,
+    -120.0,
+    -13.7,
+    -13.4,
+    -14.9,
+    -16.5,
+    -16.2,
+    -23.1,
+    -17.4,
+    -18.2,
+    -21.6,
+    -24.1,
+    -18.4,
+    -21.7,
+    -31.3,
+    -17.1
+   ],
+   "confidence_note": "눈(글·자리) · 신호(시각 — 위 띠 색 바뀜)"
+  },
+  {
+   "t0": 4.0,
+   "t1": 4.9,
+   "speaker": "나레",
+   "text": "연필은 힘주면",
+   "layer": "해설",
+   "read": true,
+   "role": "다리",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "연필은",
+     "hex": "#046BD0"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "연필 끝",
+   "fit": 7,
+   "motion": "cam",
+   "transition": "none",
+   "y": [
+    467,
+    545
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0C0C",
+   "font": {
+    "name": "미일치(둥근 굵은 고딕 — 눈)",
+    "basis": "fontmatch 안 돌림 — 편 2개뿐 · 갈래 B"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 연필은",
+   "cut_at": [],
+   "words": [
+    {
+     "t0": 3.98,
+     "t1": 4.44,
+     "text": "연필은"
+    },
+    {
+     "t0": 4.44,
+     "t1": 4.9,
+     "text": "힘주면"
+    }
+   ],
+   "loud": [
+    -17.1,
+    -15.9,
+    -22.2,
+    -17.2
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 4.9,
+   "t1": 5.6,
+   "speaker": "나레",
+   "text": "심이 부러지고",
+   "layer": "해설",
+   "read": true,
+   "role": "다리",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "부러지고",
+     "hex": "#046BD0"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "부러진 심",
+   "fit": 8,
+   "motion": "cam",
+   "transition": "none",
+   "y": [
+    467,
+    545
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0C0C",
+   "font": {
+    "name": "미일치(둥근 굵은 고딕 — 눈)",
+    "basis": "fontmatch 안 돌림 — 편 2개뿐 · 갈래 B"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 부러지고",
+   "cut_at": [],
+   "words": [
+    {
+     "t0": 4.9,
+     "t1": 5.16,
+     "text": "심이"
+    },
+    {
+     "t0": 5.16,
+     "t1": 5.52,
+     "text": "부러지고"
+    },
+    {
+     "t0": 5.52,
+     "t1": 5.9,
+     "text": "금방"
+    }
+   ],
+   "loud": [
+    -17.2,
+    -19.4,
+    -18.1,
+    -19.1
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 5.6,
+   "t1": 6.6,
+   "speaker": "나레",
+   "text": "금방 닳아서",
+   "layer": "해설",
+   "read": true,
+   "role": "다리",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "금방",
+     "hex": "#046BD0"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "연필 끝",
+   "fit": 6,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    467,
+    545
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0C0C",
+   "font": {
+    "name": "미일치(둥근 굵은 고딕 — 눈)",
+    "basis": "fontmatch 안 돌림 — 편 2개뿐 · 갈래 B"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 금방",
+   "cut_at": [
+    6.0
+   ],
+   "words": [
+    {
+     "t0": 5.52,
+     "t1": 5.9,
+     "text": "금방"
+    },
+    {
+     "t0": 5.9,
+     "t1": 6.26,
+     "text": "달아서"
+    },
+    {
+     "t0": 6.26,
+     "t1": 6.72,
+     "text": "매번"
+    }
+   ],
+   "loud": [
+    -19.1,
+    -18.3,
+    -21.3,
+    -26.5,
+    -17.4
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 6.6,
+   "t1": 7.1,
+   "speaker": "나레",
+   "text": "매번 깎느라",
+   "layer": "해설",
+   "read": true,
+   "role": "다리",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "깎느라",
+     "hex": "#046BD0"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "연필 깎는 칼",
+   "fit": 8,
+   "motion": "cam",
+   "transition": "none",
+   "y": [
+    467,
+    545
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0C0C",
+   "font": {
+    "name": "미일치(둥근 굵은 고딕 — 눈)",
+    "basis": "fontmatch 안 돌림 — 편 2개뿐 · 갈래 B"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 깎느라",
+   "cut_at": [],
+   "words": [
+    {
+     "t0": 6.26,
+     "t1": 6.72,
+     "text": "매번"
+    },
+    {
+     "t0": 6.72,
+     "t1": 7.04,
+     "text": "깍느라"
+    },
+    {
+     "t0": 7.04,
+     "t1": 7.26,
+     "text": "진짜"
+    }
+   ],
+   "loud": [
+    -17.4,
+    -16.9,
+    -22.5
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 7.1,
+   "t1": 8.2,
+   "speaker": "나레",
+   "text": "진짜 스트레스였는데",
+   "layer": "해설",
+   "read": true,
+   "role": "다리",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "스트레스였는데",
+     "hex": "#046BD0"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "연필 부스러기",
+   "fit": 5,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    467,
+    545
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0C0C",
+   "font": {
+    "name": "미일치(둥근 굵은 고딕 — 눈)",
+    "basis": "fontmatch 안 돌림 — 편 2개뿐 · 갈래 B"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 스트레스였는데",
+   "cut_at": [
+    8.133
+   ],
+   "words": [
+    {
+     "t0": 7.04,
+     "t1": 7.26,
+     "text": "진짜"
+    },
+    {
+     "t0": 7.26,
+     "t1": 8.0,
+     "text": "스트레스였는데"
+    },
+    {
+     "t0": 8.0,
+     "t1": 8.32,
+     "text": "이"
+    }
+   ],
+   "loud": [
+    -22.5,
+    -24.6,
+    -20.4,
+    -22.2,
+    -23.7
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 8.2,
+   "t1": 8.8,
+   "speaker": "나레",
+   "text": "이 답답함을",
+   "layer": "해설",
+   "read": true,
+   "role": "다리",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "답답함을",
+     "hex": "#046BD0"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "펜을 든 손",
+   "fit": 5,
+   "motion": "cam",
+   "transition": "none",
+   "y": [
+    467,
+    545
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0C0C",
+   "font": {
+    "name": "미일치(둥근 굵은 고딕 — 눈)",
+    "basis": "fontmatch 안 돌림 — 편 2개뿐 · 갈래 B"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 답답함을",
+   "cut_at": [],
+   "words": [
+    {
+     "t0": 8.0,
+     "t1": 8.32,
+     "text": "이"
+    },
+    {
+     "t0": 8.32,
+     "t1": 8.78,
+     "text": "답답함을"
+    },
+    {
+     "t0": 8.78,
+     "t1": 9.1,
+     "text": "한방에"
+    }
+   ],
+   "loud": [
+    -23.7,
+    -20.6,
+    -16.0,
+    -18.1
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 8.8,
+   "t1": 9.7,
+   "speaker": "나레",
+   "text": "한방에 끝내버릴",
+   "layer": "해설",
+   "read": true,
+   "role": "다리",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "한방에",
+     "hex": "#046BD0"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "펜 든 손",
+   "fit": 5,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    467,
+    545
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0C0C",
+   "font": {
+    "name": "미일치(둥근 굵은 고딕 — 눈)",
+    "basis": "fontmatch 안 돌림 — 편 2개뿐 · 갈래 B"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 한방에",
+   "cut_at": [
+    9.667
+   ],
+   "words": [
+    {
+     "t0": 8.78,
+     "t1": 9.1,
+     "text": "한방에"
+    },
+    {
+     "t0": 9.1,
+     "t1": 9.58,
+     "text": "끝내버릴"
+    },
+    {
+     "t0": 9.58,
+     "t1": 10.02,
+     "text": "역대급"
+    }
+   ],
+   "loud": [
+    -18.1,
+    -18.4,
+    -15.8,
+    -21.7
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 9.7,
+   "t1": 10.4,
+   "speaker": "나레",
+   "text": "역대급 신문물이",
+   "layer": "해설",
+   "read": true,
+   "role": "다리",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "역대급",
+     "hex": "#046BD0"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "펜 근접",
+   "fit": 6,
+   "motion": "cam",
+   "transition": "none",
+   "y": [
+    467,
+    545
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0C0C",
+   "font": {
+    "name": "미일치(둥근 굵은 고딕 — 눈)",
+    "basis": "fontmatch 안 돌림 — 편 2개뿐 · 갈래 B"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 역대급",
+   "cut_at": [],
+   "words": [
+    {
+     "t0": 9.58,
+     "t1": 10.02,
+     "text": "역대급"
+    },
+    {
+     "t0": 10.02,
+     "t1": 10.42,
+     "text": "신문물이"
+    }
+   ],
+   "loud": [
+    -21.7,
+    -21.2,
+    -21.2,
+    -16.9
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 10.4,
+   "t1": 11.1,
+   "speaker": "나레",
+   "text": "나왔다는데?",
+   "layer": "해설",
+   "read": true,
+   "role": "다리",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "나왔다는데?",
+     "hex": "#046BD0"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "펜 근접",
+   "fit": 5,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    467,
+    545
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0C0C",
+   "font": {
+    "name": "미일치(둥근 굵은 고딕 — 눈)",
+    "basis": "fontmatch 안 돌림 — 편 2개뿐 · 갈래 B"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 나왔다는데?",
+   "cut_at": [
+    11.0
+   ],
+   "words": [
+    {
+     "t0": 10.02,
+     "t1": 10.42,
+     "text": "신문물이"
+    },
+    {
+     "t0": 10.42,
+     "t1": 10.88,
+     "text": "나왔다는데"
+    },
+    {
+     "t0": 10.88,
+     "t1": 11.3,
+     "text": "이건"
+    }
+   ],
+   "loud": [
+    -16.9,
+    -19.3,
+    -22.9,
+    -19.7
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 11.1,
+   "t1": 11.7,
+   "speaker": "나레",
+   "text": "이건 바로",
+   "layer": "해설",
+   "read": true,
+   "role": "이음",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "바로",
+     "hex": "#046BD0"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "검은 펜",
+   "fit": 6,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    467,
+    545
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0C0C",
+   "font": {
+    "name": "미일치(둥근 굵은 고딕 — 눈)",
+    "basis": "fontmatch 안 돌림 — 편 2개뿐 · 갈래 B"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 바로",
+   "cut_at": [
+    11.267
+   ],
+   "words": [
+    {
+     "t0": 10.88,
+     "t1": 11.3,
+     "text": "이건"
+    },
+    {
+     "t0": 11.3,
+     "t1": 11.48,
+     "text": "바로"
+    },
+    {
+     "t0": 11.48,
+     "t1": 12.1,
+     "text": "500년"
+    }
+   ],
+   "loud": [
+    -19.7,
+    -14.9,
+    -22.8
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 11.7,
+   "t1": 12.8,
+   "speaker": "나레",
+   "text": "500년 연필 역사를",
+   "layer": "해설",
+   "read": true,
+   "role": "공개",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "500년",
+     "hex": "#046BD0"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "펜 근접",
+   "fit": 5,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    467,
+    545
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0C0C",
+   "font": {
+    "name": "미일치(둥근 굵은 고딕 — 눈)",
+    "basis": "fontmatch 안 돌림 — 편 2개뿐 · 갈래 B"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 500년",
+   "cut_at": [
+    12.5
+   ],
+   "words": [
+    {
+     "t0": 11.48,
+     "t1": 12.1,
+     "text": "500년"
+    },
+    {
+     "t0": 12.1,
+     "t1": 12.36,
+     "text": "연필"
+    },
+    {
+     "t0": 12.36,
+     "t1": 12.64,
+     "text": "역사를"
+    },
+    {
+     "t0": 12.64,
+     "t1": 13.24,
+     "text": "완전히"
+    }
+   ],
+   "loud": [
+    -22.8,
+    -14.4,
+    -15.3,
+    -20.5,
+    -19.7,
+    -24.4
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 12.8,
+   "t1": 13.9,
+   "speaker": "나레",
+   "text": "완전히 뒤엎어버린",
+   "layer": "해설",
+   "read": true,
+   "role": "공개",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "완전히",
+     "hex": "#046BD0"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "펜으로 씀",
+   "fit": 5,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    467,
+    545
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0C0C",
+   "font": {
+    "name": "미일치(둥근 굵은 고딕 — 눈)",
+    "basis": "fontmatch 안 돌림 — 편 2개뿐 · 갈래 B"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 완전히",
+   "cut_at": [
+    13.5
+   ],
+   "words": [
+    {
+     "t0": 12.64,
+     "t1": 13.24,
+     "text": "완전히"
+    },
+    {
+     "t0": 13.24,
+     "t1": 13.5,
+     "text": "뒤오퍼"
+    },
+    {
+     "t0": 13.5,
+     "t1": 13.8,
+     "text": "버린"
+    },
+    {
+     "t0": 13.8,
+     "t1": 14.22,
+     "text": "괴물"
+    }
+   ],
+   "loud": [
+    -24.4,
+    -19.2,
+    -18.8,
+    -18.4,
+    -26.6
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 13.9,
+   "t1": 14.9,
+   "speaker": "나레",
+   "text": "괴물 탄소펜",
+   "layer": "해설",
+   "read": true,
+   "role": "공개",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "괴물",
+     "hex": "#046BD0"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "빨간 펜 근접",
+   "fit": 8,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    467,
+    545
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0C0C",
+   "font": {
+    "name": "미일치(둥근 굵은 고딕 — 눈)",
+    "basis": "fontmatch 안 돌림 — 편 2개뿐 · 갈래 B"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 괴물",
+   "cut_at": [
+    14.467
+   ],
+   "words": [
+    {
+     "t0": 13.8,
+     "t1": 14.22,
+     "text": "괴물"
+    },
+    {
+     "t0": 14.22,
+     "t1": 14.74,
+     "text": "탄소펜."
+    }
+   ],
+   "loud": [
+    -26.6,
+    -15.9,
+    -25.8,
+    -27.8,
+    -27.9
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 14.9,
+   "t1": 15.7,
+   "speaker": "나레",
+   "text": "흑연이랑 탄소를",
+   "layer": "해설",
+   "read": true,
+   "role": "본문",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "탄소를",
+     "hex": "#046BD0"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "펜 심",
+   "fit": 6,
+   "motion": "cam",
+   "transition": "none",
+   "y": [
+    467,
+    545
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0C0C",
+   "font": {
+    "name": "미일치(둥근 굵은 고딕 — 눈)",
+    "basis": "fontmatch 안 돌림 — 편 2개뿐 · 갈래 B"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 탄소를",
+   "cut_at": [],
+   "words": [
+    {
+     "t0": 14.94,
+     "t1": 15.32,
+     "text": "꾹연이란"
+    },
+    {
+     "t0": 15.32,
+     "t1": 15.74,
+     "text": "탄소를"
+    }
+   ],
+   "loud": [
+    -27.9,
+    -13.0,
+    -16.9,
+    -17.9
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 15.7,
+   "t1": 16.8,
+   "speaker": "나레",
+   "text": "단단하게 압축해서",
+   "layer": "해설",
+   "read": true,
+   "role": "본문",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "단단하게",
+     "hex": "#046BD0"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "펜 심",
+   "fit": 6,
+   "motion": "cam",
+   "transition": "none",
+   "y": [
+    467,
+    545
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0C0C",
+   "font": {
+    "name": "미일치(둥근 굵은 고딕 — 눈)",
+    "basis": "fontmatch 안 돌림 — 편 2개뿐 · 갈래 B"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 단단하게",
+   "cut_at": [],
+   "words": [
+    {
+     "t0": 15.32,
+     "t1": 15.74,
+     "text": "탄소를"
+    },
+    {
+     "t0": 15.74,
+     "t1": 16.12,
+     "text": "단단하게"
+    },
+    {
+     "t0": 16.12,
+     "t1": 16.56,
+     "text": "압축해서"
+    },
+    {
+     "t0": 16.56,
+     "t1": 17.02,
+     "text": "미친"
+    }
+   ],
+   "loud": [
+    -17.9,
+    -19.5,
+    -18.9,
+    -28.9,
+    -24.3,
+    -23.5
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 16.8,
+   "t1": 17.9,
+   "speaker": "나레",
+   "text": "미친강도의 탄소펜으로",
+   "layer": "해설",
+   "read": true,
+   "role": "본문",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "미친강도의",
+     "hex": "#046BD0"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "펜으로 씀",
+   "fit": 6,
+   "motion": "cam",
+   "transition": "none",
+   "y": [
+    467,
+    545
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0C0C",
+   "font": {
+    "name": "미일치(둥근 굵은 고딕 — 눈)",
+    "basis": "fontmatch 안 돌림 — 편 2개뿐 · 갈래 B"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 미친강도의",
+   "cut_at": [],
+   "words": [
+    {
+     "t0": 16.56,
+     "t1": 17.02,
+     "text": "미친"
+    },
+    {
+     "t0": 17.02,
+     "t1": 17.34,
+     "text": "강도의"
+    },
+    {
+     "t0": 17.34,
+     "t1": 17.86,
+     "text": "탄소펜으로"
+    },
+    {
+     "t0": 17.86,
+     "t1": 18.5,
+     "text": "만들어버렸다고"
+    }
+   ],
+   "loud": [
+    -23.5,
+    -16.7,
+    -19.5,
+    -21.3,
+    -17.0
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 17.9,
+   "t1": 18.9,
+   "speaker": "나레",
+   "text": "만들어 버렸다고",
+   "layer": "해설",
+   "read": true,
+   "role": "본문",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "버렸다고",
+     "hex": "#046BD0"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "펜 근접",
+   "fit": 5,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    467,
+    545
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0C0C",
+   "font": {
+    "name": "미일치(둥근 굵은 고딕 — 눈)",
+    "basis": "fontmatch 안 돌림 — 편 2개뿐 · 갈래 B"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 버렸다고",
+   "cut_at": [
+    18.0
+   ],
+   "words": [
+    {
+     "t0": 17.86,
+     "t1": 18.5,
+     "text": "만들어버렸다고"
+    },
+    {
+     "t0": 18.5,
+     "t1": 19.36,
+     "text": "샤프심처럼"
+    }
+   ],
+   "loud": [
+    -17.0,
+    -18.0,
+    -22.7,
+    -33.1,
+    -22.3
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 18.9,
+   "t1": 20.6,
+   "speaker": "나레",
+   "text": "샤프심처럼 쏙 넣어서 사용하고",
+   "layer": "해설",
+   "read": true,
+   "role": "본문",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "샤프심처럼",
+     "hex": "#046BD0"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "펜에 심을 넣음",
+   "fit": 8,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    467,
+    545
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0C0C",
+   "font": {
+    "name": "미일치(둥근 굵은 고딕 — 눈)",
+    "basis": "fontmatch 안 돌림 — 편 2개뿐 · 갈래 B"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 샤프심처럼",
+   "cut_at": [
+    19.6
+   ],
+   "words": [
+    {
+     "t0": 18.5,
+     "t1": 19.36,
+     "text": "샤프심처럼"
+    },
+    {
+     "t0": 19.36,
+     "t1": 19.58,
+     "text": "쏙"
+    },
+    {
+     "t0": 19.58,
+     "t1": 19.9,
+     "text": "넣어서"
+    },
+    {
+     "t0": 19.9,
+     "t1": 20.38,
+     "text": "사용하고"
+    },
+    {
+     "t0": 20.38,
+     "t1": 20.88,
+     "text": "혼자서"
+    }
+   ],
+   "loud": [
+    -22.3,
+    -21.3,
+    -17.6,
+    -15.8,
+    -21.6,
+    -19.8,
+    -23.0,
+    -18.1
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 20.6,
+   "t1": 22.3,
+   "speaker": "나레",
+   "text": "혼자서 무려 108km 길이의",
+   "layer": "해설",
+   "read": true,
+   "role": "본문",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "혼자서",
+     "hex": "#046BD0"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "과정",
+   "scene_desc": "펜으로 글씨 씀",
+   "fit": 6,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    467,
+    545
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0C0C",
+   "font": {
+    "name": "미일치(둥근 굵은 고딕 — 눈)",
+    "basis": "fontmatch 안 돌림 — 편 2개뿐 · 갈래 B"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 혼자서",
+   "cut_at": [
+    20.933
+   ],
+   "words": [
+    {
+     "t0": 20.38,
+     "t1": 20.88,
+     "text": "혼자서"
+    },
+    {
+     "t0": 20.88,
+     "t1": 21.06,
+     "text": "무려"
+    },
+    {
+     "t0": 21.06,
+     "t1": 21.68,
+     "text": "108km"
+    },
+    {
+     "t0": 21.68,
+     "t1": 22.16,
+     "text": "길이의"
+    },
+    {
+     "t0": 22.16,
+     "t1": 22.5,
+     "text": "글씨를"
+    }
+   ],
+   "loud": [
+    -18.1,
+    -19.8,
+    -18.0,
+    -19.8,
+    -18.9,
+    -21.8,
+    -18.4,
+    -20.0
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 22.3,
+   "t1": 23.3,
+   "speaker": "나레",
+   "text": "글씨를 쓸 수 있다는데",
+   "layer": "해설",
+   "read": true,
+   "role": "본문",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "글씨를",
+     "hex": "#046BD0"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "과정",
+   "scene_desc": "펜으로 글씨 씀",
+   "fit": 7,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    467,
+    545
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0C0C",
+   "font": {
+    "name": "미일치(둥근 굵은 고딕 — 눈)",
+    "basis": "fontmatch 안 돌림 — 편 2개뿐 · 갈래 B"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 글씨를",
+   "cut_at": [
+    22.733
+   ],
+   "words": [
+    {
+     "t0": 22.16,
+     "t1": 22.5,
+     "text": "글씨를"
+    },
+    {
+     "t0": 22.5,
+     "t1": 22.62,
+     "text": "쓸"
+    },
+    {
+     "t0": 22.62,
+     "t1": 22.74,
+     "text": "수"
+    },
+    {
+     "t0": 22.74,
+     "t1": 23.1,
+     "text": "있다는데"
+    },
+    {
+     "t0": 23.1,
+     "t1": 23.76,
+     "text": "심지어"
+    }
+   ],
+   "loud": [
+    -20.0,
+    -22.9,
+    -18.8,
+    -25.0,
+    -26.0
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 23.3,
+   "t1": 24.5,
+   "speaker": "나레",
+   "text": "심지어 물속에서도",
+   "layer": "해설",
+   "read": true,
+   "role": "고조",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "심지어",
+     "hex": "#046BD0"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "과정",
+   "scene_desc": "물속에서 씀",
+   "fit": 8,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    467,
+    545
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0C0C",
+   "font": {
+    "name": "미일치(둥근 굵은 고딕 — 눈)",
+    "basis": "fontmatch 안 돌림 — 편 2개뿐 · 갈래 B"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 심지어",
+   "cut_at": [
+    23.367
+   ],
+   "words": [
+    {
+     "t0": 23.1,
+     "t1": 23.76,
+     "text": "심지어"
+    },
+    {
+     "t0": 23.76,
+     "t1": 24.32,
+     "text": "물속에서도"
+    },
+    {
+     "t0": 24.32,
+     "t1": 24.88,
+     "text": "선명하게"
+    }
+   ],
+   "loud": [
+    -26.0,
+    -14.0,
+    -20.1,
+    -16.5,
+    -17.7,
+    -19.0
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 24.5,
+   "t1": 26.0,
+   "speaker": "나레",
+   "text": "선명하게 글씨가 써지는데다",
+   "layer": "해설",
+   "read": true,
+   "role": "고조",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "선명하게",
+     "hex": "#046BD0"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "과정",
+   "scene_desc": "물속 종이에 글씨",
+   "fit": 8,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    467,
+    545
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0C0C",
+   "font": {
+    "name": "미일치(둥근 굵은 고딕 — 눈)",
+    "basis": "fontmatch 안 돌림 — 편 2개뿐 · 갈래 B"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 선명하게",
+   "cut_at": [
+    25.633
+   ],
+   "words": [
+    {
+     "t0": 24.32,
+     "t1": 24.88,
+     "text": "선명하게"
+    },
+    {
+     "t0": 24.88,
+     "t1": 25.26,
+     "text": "글씨가"
+    },
+    {
+     "t0": 25.26,
+     "t1": 25.52,
+     "text": "써지는"
+    },
+    {
+     "t0": 25.52,
+     "t1": 25.8,
+     "text": "데다"
+    },
+    {
+     "t0": 25.8,
+     "t1": 26.36,
+     "text": "펜촉이"
+    }
+   ],
+   "loud": [
+    -19.0,
+    -16.8,
+    -19.8,
+    -17.4,
+    -19.5,
+    -27.9,
+    -20.0
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 26.0,
+   "t1": 27.5,
+   "speaker": "나레",
+   "text": "펜촉이 바위처럼 단단해서",
+   "layer": "해설",
+   "read": true,
+   "role": "고조",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "바위처럼",
+     "hex": "#046BD0"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "펜촉 근접",
+   "fit": 6,
+   "motion": "cam",
+   "transition": "none",
+   "y": [
+    467,
+    545
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0C0C",
+   "font": {
+    "name": "미일치(둥근 굵은 고딕 — 눈)",
+    "basis": "fontmatch 안 돌림 — 편 2개뿐 · 갈래 B"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 바위처럼",
+   "cut_at": [],
+   "words": [
+    {
+     "t0": 25.8,
+     "t1": 26.36,
+     "text": "펜촉이"
+    },
+    {
+     "t0": 26.36,
+     "t1": 26.72,
+     "text": "바위처럼"
+    },
+    {
+     "t0": 26.72,
+     "t1": 27.24,
+     "text": "단단해서"
+    },
+    {
+     "t0": 27.24,
+     "t1": 27.7,
+     "text": "꾹꾹"
+    }
+   ],
+   "loud": [
+    -20.0,
+    -17.6,
+    -18.7,
+    -19.7,
+    -21.6,
+    -25.8,
+    -19.4
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 27.5,
+   "t1": 28.4,
+   "speaker": "나레",
+   "text": "꾹꾹 눌러 써도",
+   "layer": "해설",
+   "read": true,
+   "role": "고조",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "눌러",
+     "hex": "#046BD0"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "과정",
+   "scene_desc": "세게 눌러 씀",
+   "fit": 8,
+   "motion": "cam",
+   "transition": "none",
+   "y": [
+    467,
+    545
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0C0C",
+   "font": {
+    "name": "미일치(둥근 굵은 고딕 — 눈)",
+    "basis": "fontmatch 안 돌림 — 편 2개뿐 · 갈래 B"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 눌러",
+   "cut_at": [],
+   "words": [
+    {
+     "t0": 27.24,
+     "t1": 27.7,
+     "text": "꾹꾹"
+    },
+    {
+     "t0": 27.7,
+     "t1": 28.08,
+     "text": "눌러서도"
+    },
+    {
+     "t0": 28.08,
+     "t1": 28.54,
+     "text": "절대"
+    }
+   ],
+   "loud": [
+    -19.4,
+    -18.0,
+    -20.5,
+    -25.8
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 28.4,
+   "t1": 29.4,
+   "speaker": "나레",
+   "text": "절대 안 부러진다고",
+   "layer": "해설",
+   "read": true,
+   "role": "고조",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "안",
+     "hex": "#046BD0"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "과정",
+   "scene_desc": "펜촉",
+   "fit": 6,
+   "motion": "cam",
+   "transition": "none",
+   "y": [
+    467,
+    545
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0C0C",
+   "font": {
+    "name": "미일치(둥근 굵은 고딕 — 눈)",
+    "basis": "fontmatch 안 돌림 — 편 2개뿐 · 갈래 B"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 안",
+   "cut_at": [],
+   "words": [
+    {
+     "t0": 28.08,
+     "t1": 28.54,
+     "text": "절대"
+    },
+    {
+     "t0": 28.54,
+     "t1": 28.74,
+     "text": "안"
+    },
+    {
+     "t0": 28.74,
+     "t1": 29.18,
+     "text": "부러진다고"
+    },
+    {
+     "t0": 29.18,
+     "t1": 29.7,
+     "text": "미친"
+    }
+   ],
+   "loud": [
+    -25.8,
+    -19.6,
+    -16.5,
+    -24.2,
+    -20.0
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 29.4,
+   "t1": 30.4,
+   "speaker": "나레",
+   "text": "미친 포인트는",
+   "layer": "큰글",
+   "read": true,
+   "role": "반전",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "창 안 큰 2줄 글(흰 띠 숨김) · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "포인트는",
+     "hex": "#046BD0"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "과정",
+   "scene_desc": "종이에 펜 — 흰 띠 없이 창 안 큰 글('미친' 흰 + '포인트는' 파랑)",
+   "fit": 5,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    1150,
+    1380
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#FFFFFF",
+   "font": {
+    "name": "미일치(굵은 고딕 — 눈)",
+    "basis": "흰 글 + 파랑 낱말 2줄, 검은 그림자"
+   },
+   "size_px": 100,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 4,
+    "hex": "#000000"
+   },
+   "ring": null,
+   "shadow": {
+    "blur": 12,
+    "hex": "#000000",
+    "alpha": 0.6
+   },
+   "glow": null,
+   "box": null,
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 포인트는",
+   "cut_at": [
+    29.4,
+    30.367
+   ],
+   "words": [
+    {
+     "t0": 29.18,
+     "t1": 29.7,
+     "text": "미친"
+    },
+    {
+     "t0": 29.7,
+     "t1": 30.16,
+     "text": "포인트는"
+    },
+    {
+     "t0": 30.16,
+     "t1": 30.78,
+     "text": "불펜처럼"
+    }
+   ],
+   "loud": [
+    -20.0,
+    -18.1,
+    -16.9,
+    -17.8,
+    -19.0
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 30.4,
+   "t1": 31.3,
+   "speaker": "나레",
+   "text": "볼펜처럼 잉크가",
+   "layer": "해설",
+   "read": true,
+   "role": "고조",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "볼펜처럼",
+     "hex": "#046BD0"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "과정",
+   "scene_desc": "펜으로 씀",
+   "fit": 6,
+   "motion": "cam",
+   "transition": "none",
+   "y": [
+    467,
+    545
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0C0C",
+   "font": {
+    "name": "미일치(둥근 굵은 고딕 — 눈)",
+    "basis": "fontmatch 안 돌림 — 편 2개뿐 · 갈래 B"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 볼펜처럼",
+   "cut_at": [],
+   "words": [
+    {
+     "t0": 30.16,
+     "t1": 30.78,
+     "text": "불펜처럼"
+    },
+    {
+     "t0": 30.78,
+     "t1": 31.2,
+     "text": "잉크가"
+    },
+    {
+     "t0": 31.2,
+     "t1": 31.46,
+     "text": "번지는"
+    }
+   ],
+   "loud": [
+    -19.0,
+    -17.6,
+    -16.3,
+    -18.6,
+    -18.1
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 31.3,
+   "t1": 32.4,
+   "speaker": "나레",
+   "text": "번지는 것도 없는데다",
+   "layer": "해설",
+   "read": true,
+   "role": "고조",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "것도",
+     "hex": "#046BD0"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "과정",
+   "scene_desc": "글씨 근접",
+   "fit": 6,
+   "motion": "cam",
+   "transition": "none",
+   "y": [
+    467,
+    545
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0C0C",
+   "font": {
+    "name": "미일치(둥근 굵은 고딕 — 눈)",
+    "basis": "fontmatch 안 돌림 — 편 2개뿐 · 갈래 B"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 것도",
+   "cut_at": [],
+   "words": [
+    {
+     "t0": 31.2,
+     "t1": 31.46,
+     "text": "번지는"
+    },
+    {
+     "t0": 31.46,
+     "t1": 31.62,
+     "text": "것도"
+    },
+    {
+     "t0": 31.62,
+     "t1": 31.82,
+     "text": "없는"
+    },
+    {
+     "t0": 31.82,
+     "t1": 32.18,
+     "text": "데다"
+    },
+    {
+     "t0": 32.18,
+     "t1": 32.5,
+     "text": "일반"
+    }
+   ],
+   "loud": [
+    -18.1,
+    -19.3,
+    -19.8,
+    -24.0,
+    -19.1
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 32.4,
+   "t1": 33.9,
+   "speaker": "나레",
+   "text": "일반 지우개로 쓱 문지르면",
+   "layer": "해설",
+   "read": true,
+   "role": "고조",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "지우개로",
+     "hex": "#046BD0"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "과정",
+   "scene_desc": "지우개로 지움",
+   "fit": 9,
+   "motion": "cam",
+   "transition": "none",
+   "y": [
+    467,
+    545
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0C0C",
+   "font": {
+    "name": "미일치(둥근 굵은 고딕 — 눈)",
+    "basis": "fontmatch 안 돌림 — 편 2개뿐 · 갈래 B"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 지우개로",
+   "cut_at": [],
+   "words": [
+    {
+     "t0": 32.18,
+     "t1": 32.5,
+     "text": "일반"
+    },
+    {
+     "t0": 32.5,
+     "t1": 32.9,
+     "text": "지우기로"
+    },
+    {
+     "t0": 32.9,
+     "t1": 33.2,
+     "text": "쓱"
+    },
+    {
+     "t0": 33.2,
+     "t1": 33.58,
+     "text": "문지르면"
+    },
+    {
+     "t0": 33.58,
+     "t1": 34.32,
+     "text": "감쪽같이"
+    }
+   ],
+   "loud": [
+    -19.1,
+    -15.7,
+    -16.6,
+    -20.3,
+    -18.2,
+    -20.1,
+    -26.7
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 33.9,
+   "t1": 35.2,
+   "speaker": "나레",
+   "text": "감쪽같이 지워진다는데",
+   "layer": "해설",
+   "read": true,
+   "role": "고조",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "감쪽같이",
+     "hex": "#046BD0"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "과정",
+   "scene_desc": "지워진 종이",
+   "fit": 8,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    467,
+    545
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0C0C",
+   "font": {
+    "name": "미일치(둥근 굵은 고딕 — 눈)",
+    "basis": "fontmatch 안 돌림 — 편 2개뿐 · 갈래 B"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 감쪽같이",
+   "cut_at": [
+    34.1
+   ],
+   "words": [
+    {
+     "t0": 33.58,
+     "t1": 34.32,
+     "text": "감쪽같이"
+    },
+    {
+     "t0": 34.32,
+     "t1": 34.94,
+     "text": "지워진다는데"
+    },
+    {
+     "t0": 34.94,
+     "t1": 35.56,
+     "text": "평소에"
+    }
+   ],
+   "loud": [
+    -26.7,
+    -19.2,
+    -19.1,
+    -16.4,
+    -21.6,
+    -24.3
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 35.2,
+   "t1": 36.5,
+   "speaker": "나레",
+   "text": "평소에 필기 많이 하거나",
+   "layer": "해설",
+   "read": true,
+   "role": "끝",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "평소에",
+     "hex": "#046BD0"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "과정",
+   "scene_desc": "필기 장면",
+   "fit": 6,
+   "motion": "cam",
+   "transition": "none",
+   "y": [
+    467,
+    545
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0C0C",
+   "font": {
+    "name": "미일치(둥근 굵은 고딕 — 눈)",
+    "basis": "fontmatch 안 돌림 — 편 2개뿐 · 갈래 B"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 평소에",
+   "cut_at": [],
+   "words": [
+    {
+     "t0": 34.94,
+     "t1": 35.56,
+     "text": "평소에"
+    },
+    {
+     "t0": 35.56,
+     "t1": 35.78,
+     "text": "필기"
+    },
+    {
+     "t0": 35.78,
+     "t1": 35.96,
+     "text": "많이"
+    },
+    {
+     "t0": 35.96,
+     "t1": 36.3,
+     "text": "하거나"
+    },
+    {
+     "t0": 36.3,
+     "t1": 36.76,
+     "text": "연필"
+    }
+   ],
+   "loud": [
+    -24.3,
+    -16.0,
+    -18.5,
+    -18.1,
+    -17.2,
+    -20.2,
+    -20.5
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 36.5,
+   "t1": 37.2,
+   "speaker": "나레",
+   "text": "연필 깎는 거",
+   "layer": "해설",
+   "read": true,
+   "role": "끝",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "연필",
+     "hex": "#046BD0"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "연필",
+   "fit": 5,
+   "motion": "cam",
+   "transition": "none",
+   "y": [
+    467,
+    545
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0C0C",
+   "font": {
+    "name": "미일치(둥근 굵은 고딕 — 눈)",
+    "basis": "fontmatch 안 돌림 — 편 2개뿐 · 갈래 B"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 연필",
+   "cut_at": [],
+   "words": [
+    {
+     "t0": 36.3,
+     "t1": 36.76,
+     "text": "연필"
+    },
+    {
+     "t0": 36.76,
+     "t1": 37.0,
+     "text": "깎는"
+    },
+    {
+     "t0": 37.0,
+     "t1": 37.12,
+     "text": "거"
+    },
+    {
+     "t0": 37.12,
+     "t1": 37.48,
+     "text": "극도로"
+    }
+   ],
+   "loud": [
+    -20.5,
+    -18.4,
+    -19.8
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 37.2,
+   "t1": 38.0,
+   "speaker": "나레",
+   "text": "극도로 귀찮아하는",
+   "layer": "해설",
+   "read": true,
+   "role": "끝",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "극도로",
+     "hex": "#046BD0"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "펜",
+   "fit": 4,
+   "motion": "cam",
+   "transition": "none",
+   "y": [
+    467,
+    545
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0C0C",
+   "font": {
+    "name": "미일치(둥근 굵은 고딕 — 눈)",
+    "basis": "fontmatch 안 돌림 — 편 2개뿐 · 갈래 B"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 극도로",
+   "cut_at": [],
+   "words": [
+    {
+     "t0": 37.12,
+     "t1": 37.48,
+     "text": "극도로"
+    },
+    {
+     "t0": 37.48,
+     "t1": 37.92,
+     "text": "귀찮아하는"
+    },
+    {
+     "t0": 37.92,
+     "t1": 38.3,
+     "text": "사람들의"
+    }
+   ],
+   "loud": [
+    -19.8,
+    -19.7,
+    -24.0,
+    -19.8,
+    -22.5
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 38.0,
+   "t1": 39.3,
+   "speaker": "나레",
+   "text": "사람들의 필수템이라고",
+   "layer": "해설",
+   "read": true,
+   "role": "끝",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "사람들의",
+     "hex": "#046BD0"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "펜 여러 자루",
+   "fit": 5,
+   "motion": "cam",
+   "transition": "none",
+   "y": [
+    467,
+    545
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0C0C",
+   "font": {
+    "name": "미일치(둥근 굵은 고딕 — 눈)",
+    "basis": "fontmatch 안 돌림 — 편 2개뿐 · 갈래 B"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 사람들의",
+   "cut_at": [],
+   "words": [
+    {
+     "t0": 37.92,
+     "t1": 38.3,
+     "text": "사람들의"
+    },
+    {
+     "t0": 38.3,
+     "t1": 38.96,
+     "text": "필수템이라고"
+    },
+    {
+     "t0": 38.96,
+     "t1": 39.42,
+     "text": "이번에"
+    }
+   ],
+   "loud": [
+    -22.5,
+    -21.1,
+    -23.4,
+    -22.4,
+    -33.5,
+    -15.0
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 39.3,
+   "t1": 40.2,
+   "speaker": "나레",
+   "text": "이번에 나온다는",
+   "layer": "해설",
+   "read": true,
+   "role": "끝",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "나온다는",
+     "hex": "#046BD0"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "색 펜",
+   "fit": 5,
+   "motion": "cam",
+   "transition": "none",
+   "y": [
+    467,
+    545
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0C0C",
+   "font": {
+    "name": "미일치(둥근 굵은 고딕 — 눈)",
+    "basis": "fontmatch 안 돌림 — 편 2개뿐 · 갈래 B"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 나온다는",
+   "cut_at": [],
+   "words": [
+    {
+     "t0": 38.96,
+     "t1": 39.42,
+     "text": "이번에"
+    },
+    {
+     "t0": 39.42,
+     "t1": 39.9,
+     "text": "나온다는"
+    },
+    {
+     "t0": 39.9,
+     "t1": 40.44,
+     "text": "컬러펜도"
+    }
+   ],
+   "loud": [
+    -15.0,
+    -15.3,
+    -17.3,
+    -20.3
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  },
+  {
+   "t0": 40.2,
+   "t1": 41.3,
+   "speaker": "나레",
+   "text": "컬러펜도 써보고 싶네",
+   "layer": "해설",
+   "read": true,
+   "role": "끝",
+   "enter": "cut",
+   "enter_ms": 0,
+   "enter_curve": [],
+   "type_cps": null,
+   "cursor": null,
+   "exit": "cut — 다음 줄로 바로",
+   "variant": "흰 띠 검은 글 · 나레 낱말 따라 파랑 강조(노래방)",
+   "emph": [
+    {
+     "word": "컬러펜도",
+     "hex": "#046BD0"
+    }
+   ],
+   "sticker": [],
+   "sfx": null,
+   "scene": "손·제품 근접",
+   "scene_desc": "색 펜 근접",
+   "fit": 5,
+   "motion": "cam",
+   "transition": "cut",
+   "y": [
+    467,
+    545
+   ],
+   "x": 540,
+   "align": "center",
+   "max_w": 960,
+   "fill_hex": "#0A0C0C",
+   "font": {
+    "name": "미일치(둥근 굵은 고딕 — 눈)",
+    "basis": "fontmatch 안 돌림 — 편 2개뿐 · 갈래 B"
+   },
+   "size_px": 90,
+   "letter_gap_px": 0,
+   "line_gap_px": null,
+   "outline": {
+    "px": 0,
+    "hex": null
+   },
+   "ring": null,
+   "shadow": null,
+   "glow": null,
+   "box": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "pad": "흰 띠 전체(y403~590)",
+    "radius": 0
+   },
+   "confidence": "픽셀",
+   "notes": "그 순간 파랑: 컬러펜도",
+   "cut_at": [
+    41.233
+   ],
+   "words": [
+    {
+     "t0": 39.9,
+     "t1": 40.44,
+     "text": "컬러펜도"
+    },
+    {
+     "t0": 40.44,
+     "t1": 40.84,
+     "text": "써보고"
+    },
+    {
+     "t0": 40.84,
+     "t1": 41.16,
+     "text": "싶네"
+    }
+   ],
+   "loud": [
+    -20.3,
+    -18.3,
+    -19.6,
+    -20.2,
+    -25.1
+   ],
+   "confidence_note": "픽셀(시각·띠·색·글꼴 A) · 눈(글·장면·fit·역할)"
+  }
+ ],
+ "no_caption": [],
+ "beats": "훅(0~4.0 표지 나레) → 다리(4.0~11.1 연필 불편 '스트레스였는데' → '역대급 신문물이 나왔다는데?') → 공개(11.1~14.9 '이건 바로 … 괴물 탄소펜') → 본문(14.9~23.3 원리·길이 '~버렸다고' '~있다는데') → 고조(23.3~29.4 '심지어' 둘째 장점) → 큰 글(29.4~30.4 '미친 포인트는') → 고조(30.4~35.2) → 끝(35.2~41.3 쓰는 사람 '필수템이라고' + 감상 '컬러펜도 써보고 싶네')",
+ "narr_share": "나레 줄 37/37 · 받아쓰기 말 구간 0.976",
+ "name_evidence": [],
+ "frame0": {
+  "what": "표지 카드 — 펜을 든 손 장면 위 밝은 막 + 큰 두 줄 제목(흰 작게/파랑 크게) + 흰 상자 작은 제목",
+  "face_frac": 0,
+  "text": "연필 108개를 때려넣은 샤프를 만든 / 한국천재의 발명품 / 한국천재의 발명품?"
+ },
+ "notes": [
+  "끝 줄만 감상 '~네'(전언 아님) — 다른 편 끝은 전언 '~다는데/~다고'",
+  "'108km' 같은 숫자 주장은 우리 대본에서 뒷받침 없이 쓰지 않음",
+  "받아쓰기 = 위스퍼(낱말 시각 정밀도 낮음)",
+  "효과음·BGM 이름 = 미측정 — agy·분리 도구 없음"
+ ]
+}

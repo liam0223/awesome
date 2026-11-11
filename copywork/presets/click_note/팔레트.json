@@ -1,0 +1,187 @@
+{
+ "n_docs": 8,
+ "roles": {
+  "본문": [
+   {
+    "hex": "#0A0C0C",
+    "n_lines": 35,
+    "n_docs": 1,
+    "docs": [
+     "3kb2fopXnIw"
+    ]
+   },
+   {
+    "hex": "#020203",
+    "n_lines": 28,
+    "n_docs": 1,
+    "docs": [
+     "iEN1WxOIWoU"
+    ]
+   },
+   {
+    "hex": "#0A0A0A",
+    "n_lines": 25,
+    "n_docs": 1,
+    "docs": [
+     "EwwIlvMZoN4"
+    ]
+   },
+   {
+    "hex": "#0F0F13",
+    "n_lines": 24,
+    "n_docs": 1,
+    "docs": [
+     "BG8D7oeIhwY"
+    ]
+   },
+   {
+    "hex": "#2A2C31",
+    "n_lines": 22,
+    "n_docs": 1,
+    "docs": [
+     "O8ZNrU_7WVQ"
+    ]
+   },
+   {
+    "hex": "#050509",
+    "n_lines": 21,
+    "n_docs": 1,
+    "docs": [
+     "3iQHc3oTP2Q"
+    ]
+   },
+   {
+    "hex": "#101212",
+    "n_lines": 19,
+    "n_docs": 1,
+    "docs": [
+     "HmGDP6rrqo8"
+    ]
+   },
+   {
+    "hex": "#111111",
+    "n_lines": 19,
+    "n_docs": 1,
+    "docs": [
+     "Uu_SJaiAuwQ"
+    ]
+   }
+  ],
+  "강조": [
+   {
+    "hex": "#0811F4",
+    "n_lines": 88,
+    "n_docs": 4,
+    "docs": [
+     "3iQHc3oTP2Q",
+     "BG8D7oeIhwY",
+     "HmGDP6rrqo8",
+     "Uu_SJaiAuwQ"
+    ]
+   },
+   {
+    "hex": "#046BD0",
+    "n_lines": 65,
+    "n_docs": 2,
+    "docs": [
+     "3kb2fopXnIw",
+     "iEN1WxOIWoU"
+    ]
+   }
+  ],
+  "외곽선": [],
+  "글로우": [],
+  "제목": [
+   {
+    "hex": "#44E7BA",
+    "n_lines": 1,
+    "n_docs": 1,
+    "docs": [
+     "3iQHc3oTP2Q"
+    ]
+   },
+   {
+    "hex": "#43DFB6",
+    "n_lines": 1,
+    "n_docs": 1,
+    "docs": [
+     "3kb2fopXnIw"
+    ]
+   },
+   {
+    "hex": "#44DFB7",
+    "n_lines": 1,
+    "n_docs": 1,
+    "docs": [
+     "BG8D7oeIhwY"
+    ]
+   },
+   {
+    "hex": "#41E6B9",
+    "n_lines": 1,
+    "n_docs": 1,
+    "docs": [
+     "EwwIlvMZoN4"
+    ]
+   },
+   {
+    "hex": "#44DFB6",
+    "n_lines": 1,
+    "n_docs": 1,
+    "docs": [
+     "HmGDP6rrqo8"
+    ]
+   },
+   {
+    "hex": "#41E6B7",
+    "n_lines": 1,
+    "n_docs": 1,
+    "docs": [
+     "O8ZNrU_7WVQ"
+    ]
+   },
+   {
+    "hex": "#46DEB7",
+    "n_lines": 1,
+    "n_docs": 1,
+    "docs": [
+     "Uu_SJaiAuwQ"
+    ]
+   },
+   {
+    "hex": "#42E6B8",
+    "n_lines": 1,
+    "n_docs": 1,
+    "docs": [
+     "iEN1WxOIWoU"
+    ]
+   }
+  ],
+  "띠": [
+   {
+    "hex": "#002721",
+    "n_lines": 4,
+    "n_docs": 4,
+    "docs": [
+     "3iQHc3oTP2Q",
+     "EwwIlvMZoN4",
+     "O8ZNrU_7WVQ",
+     "iEN1WxOIWoU"
+    ]
+   },
+   {
+    "hex": "#072723",
+    "n_lines": 4,
+    "n_docs": 4,
+    "docs": [
+     "3kb2fopXnIw",
+     "BG8D7oeIhwY",
+     "HmGDP6rrqo8",
+     "Uu_SJaiAuwQ"
+    ]
+   }
+  ],
+  "스티커": [],
+  "출처": []
+ }
+}
