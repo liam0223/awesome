@@ -1,0 +1,71 @@
+{
+ "sha256": "43b7a20c986dda76d5d6d6c07d4654b1424ffd9e9dd6ba1cf90a979d3001ad78",
+ "q": "80f1ff26ddc44a6b",
+ "model": "gemini-2.5-flash",
+ "who": "제미나이(소리·화면) — 회원 허락 2026-11-08",
+ "usage": {
+  "promptTokenCount": 7620,
+  "candidatesTokenCount": 515,
+  "totalTokenCount": 10196,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 835
+   },
+   {
+    "modality": "VIDEO",
+    "tokenCount": 6049
+   },
+   {
+    "modality": "AUDIO",
+    "tokenCount": 736
+   }
+  ],
+  "thoughtsTokenCount": 2061,
+  "serviceTier": "standard"
+ },
+ "result": {
+  "voice": {
+   "natural": "전반적으로 자연스럽고 또렷하며, 발음이나 억양에 문제가 없습니다.",
+   "issues": []
+  },
+  "script_match": [],
+  "sfx": {
+   "overall": "효과음의 개수는 적절하나, 일부 효과음의 크기가 과하고 날카롭게 들립니다.",
+   "issues": [
+    {
+     "t": 5.52,
+     "what": "텍스트 등장 시 'pop' 효과음이 너무 크고 날카로워 나레이션을 방해합니다."
+    },
+    {
+     "t": 6.52,
+     "what": "텍스트 등장 시 'tick' 효과음이 너무 크고 날카로워 나레이션을 방해합니다."
+    },
+    {
+     "t": 13.94,
+     "what": "텍스트 등장 시 'pop' 효과음이 너무 크고 날카로워 나레이션을 방해합니다."
+    },
+    {
+     "t": 16.18,
+     "what": "장면 전환 시 'dung' 효과음이 너무 커서 갑작스럽게 느껴집니다."
+    },
+    {
+     "t": 18.28,
+     "what": "텍스트 등장 시 'pop' 효과음이 너무 크고 날카로워 나레이션을 방해합니다."
+    }
+   ]
+  },
+  "mix": "나레이션 볼륨은 일정하고 명확하며, 배경음악 없이 효과음과 잘 어우러집니다. 잡음이나 끊김은 없습니다.",
+  "picture": [
+   {
+    "t": 0.0,
+    "what": "상단에 '클릭노트' 로고와 '[광고]' 문구가 표시됩니다."
+   }
+  ],
+  "verdict": "고칠 곳 있음",
+  "fix_first": [
+   "텍스트 등장 시 사용된 'pop' 및 'tick' 효과음의 볼륨을 줄여주세요.",
+   "16.18초에 사용된 'dung' 효과음의 볼륨을 크게 줄이거나 다른 부드러운 효과음으로 교체해주세요."
+  ]
+ }
+}

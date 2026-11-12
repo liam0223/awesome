@@ -1,0 +1,360 @@
+{
+ "slug": "click_note",
+ "n_videos": 8,
+ "n_lines": 200,
+ "grade_rule": "n ≥ 5 이고 rate ≥ 0.6 = 강 / ≥ 0.3 = 중 / 그 밑 = 약 / n < 5 = 표본부족",
+ "rules": [
+  {
+   "element": "cap_look",
+   "cond": "층=해설(흰 띠 y403~586)",
+   "action": "GmarketSansBold 79px · #111111 · 테·그림자 없음 · 가운데 · 한 줄",
+   "unit": "줄",
+   "k": 193,
+   "n": 200,
+   "rate": 0.965,
+   "base": null,
+   "grade": "강",
+   "evidence": [
+    "3iQHc3oTP2Q 3.4~4.6 '원룸 원상복구 때문에'",
+    "3iQHc3oTP2Q 4.6~6.2 '끙끙 앓던 세입자들 사이에서'"
+   ],
+   "confidence": "픽셀",
+   "engine_cell": "판설정.json caption.layers[0]",
+   "engine_support": "○",
+   "measure_task": null
+  },
+  {
+   "element": "cap_look",
+   "cond": "층=큰글(흰 띠 숨김 · 창 가운데 2줄)",
+   "action": "GmarketSansBold 122px 흰 글 + 파랑 낱말 + 검은 그림자",
+   "unit": "줄",
+   "k": 7,
+   "n": 200,
+   "rate": 0.035,
+   "base": null,
+   "grade": "약",
+   "evidence": [
+    "3iQHc3oTP2Q 18.7~19.9 '진짜 대박인게'",
+    "3iQHc3oTP2Q 23.2~24.5 '더 미친 포인트는'"
+   ],
+   "confidence": "픽셀",
+   "engine_cell": "판설정.json caption.layers[1]",
+   "engine_support": "○",
+   "measure_task": null
+  },
+  {
+   "element": "cap_enter",
+   "cond": "모든 본 자막 줄",
+   "action": "cut(첫 프레임부터 완성) · 0ms",
+   "unit": "줄",
+   "k": 200,
+   "n": 200,
+   "rate": 1.0,
+   "base": null,
+   "grade": "강",
+   "evidence": [
+    "3iQHc3oTP2Q 3.4~4.6 '원룸 원상복구 때문에'",
+    "3iQHc3oTP2Q 4.6~6.2 '끙끙 앓던 세입자들 사이에서'"
+   ],
+   "confidence": "픽셀",
+   "engine_cell": "판설정.json caption.layers[].enter",
+   "engine_support": "○",
+   "measure_task": null
+  },
+  {
+   "element": "cap_emph",
+   "cond": "나레 줄",
+   "action": "읽는 낱말 파랑 #0811F4(노래방) + 숏클 낱말 강조 팩 1개(밑줄·형광펜·동그라미·글로우 편마다 랜덤 — 회원지시 2026-11-08)",
+   "unit": "줄",
+   "k": 153,
+   "n": 200,
+   "rate": 0.765,
+   "base": null,
+   "grade": "강",
+   "evidence": [
+    "3iQHc3oTP2Q 3.4~4.6 '원룸 원상복구 때문에'",
+    "3iQHc3oTP2Q 4.6~6.2 '끙끙 앓던 세입자들 사이에서'"
+   ],
+   "confidence": "픽셀",
+   "engine_cell": "판설정.json caption.layers[0].karaoke · word_fx · 대본 vary.word_fx",
+   "engine_support": "○",
+   "measure_task": null
+  },
+  {
+   "element": "cap_exit",
+   "cond": "모든 본 자막 줄",
+   "action": "cut — 다음 줄로 바로",
+   "unit": "줄",
+   "k": 200,
+   "n": 200,
+   "rate": 1.0,
+   "base": null,
+   "grade": "강",
+   "evidence": [
+    "3iQHc3oTP2Q 3.4~4.6 '원룸 원상복구 때문에'",
+    "3iQHc3oTP2Q 4.6~6.2 '끙끙 앓던 세입자들 사이에서'"
+   ],
+   "confidence": "픽셀",
+   "engine_cell": "판설정.json caption.layers[].exit",
+   "engine_support": "○",
+   "measure_task": null
+  },
+  {
+   "element": "transition",
+   "cond": "컷 경계",
+   "action": "하드컷만(전환 효과 0)",
+   "unit": "줄",
+   "k": 200,
+   "n": 200,
+   "rate": 1.0,
+   "base": null,
+   "grade": "강",
+   "evidence": [
+    "3iQHc3oTP2Q 8.4~9.8 '터지면서 만든 개발자가'",
+    "3iQHc3oTP2Q 9.8~10.8 '돈방석에 앉았다는데'"
+   ],
+   "confidence": "픽셀",
+   "engine_cell": "판설정.json cuts.transition",
+   "engine_support": "○",
+   "measure_task": null
+  },
+  {
+   "element": "cut_rhythm",
+   "cond": "편",
+   "action": "컷 중앙 1.0~1.43초(편 중앙 1.25) · 갈래 A 1.18",
+   "unit": "편",
+   "k": 8,
+   "n": 8,
+   "rate": 1.0,
+   "base": null,
+   "grade": "강",
+   "evidence": [
+    "Uu_SJaiAuwQ 컷 중앙(03_tear 뜯기 cuts)",
+    "HmGDP6rrqo8 컷 중앙(03_tear 뜯기 cuts)"
+   ],
+   "confidence": "픽셀",
+   "engine_cell": "판설정.json cuts.target_median · rhythm.cut_median",
+   "engine_support": "○",
+   "measure_task": null
+  },
+  {
+   "element": "scene_fit",
+   "cond": "본 자막 줄",
+   "action": "말하는 대상이 화면에 보인다(fit ≥ 5)",
+   "unit": "줄",
+   "k": 182,
+   "n": 200,
+   "rate": 0.91,
+   "base": null,
+   "grade": "강",
+   "evidence": [
+    "3iQHc3oTP2Q 10.8~12.4 '이건 바로 떼어내는 페인트'",
+    "3iQHc3oTP2Q 12.4~13.9 '칠할 때는 일반 페인트처럼'"
+   ],
+   "confidence": "눈",
+   "engine_cell": "(없음 — 재료.json 줄마다 장면 고름 · 제작순서 4)",
+   "engine_support": "△",
+   "measure_task": null
+  },
+  {
+   "element": "bgm",
+   "cond": "편",
+   "action": "배경음 없음(1차) — 벤치 말 없는 구간 바닥 −120~−32.5dB 로 갈림",
+   "unit": "편",
+   "k": 0,
+   "n": 0,
+   "rate": null,
+   "base": null,
+   "grade": "표본부족",
+   "evidence": [],
+   "confidence": "미측정",
+   "engine_cell": "판설정.json bgm",
+   "engine_support": "○",
+   "measure_task": "음원 분리 도구를 깔고 8편 나레 밖 구간을 분리해 음악 유무를 다시 잰다"
+  },
+  {
+   "element": "sfx",
+   "cond": "편 — 회원지시(2026-11-08)",
+   "action": "0초 opener + 표지→본문 whoosh + 움직임 줄 4~6발 + 큰글 장면 이목 효과음 1발 · 팩 21개 중 편마다 랜덤 · 0.35발/초 이하",
+   "unit": "편",
+   "k": 0,
+   "n": 0,
+   "rate": null,
+   "base": null,
+   "grade": "표본부족",
+   "evidence": [],
+   "confidence": "미측정",
+   "engine_cell": "판설정.json sfx · 대본 lines[].sfx · vary.sfx_pack",
+   "engine_support": "○",
+   "measure_task": "agy·음원 분리로 벤치 8편 효과음 발 수·종류를 잰다(지금 규칙은 회원 말)"
+  },
+  {
+   "element": "meme",
+   "cond": "편",
+   "action": "벤치 반응 짤(남의 얼굴) 4/8편 → 우리는 안 씀(출처 규칙) — 그 자리는 큰글 장면",
+   "unit": "편",
+   "k": 4,
+   "n": 8,
+   "rate": 0.5,
+   "base": null,
+   "grade": "중",
+   "evidence": [
+    "Uu_SJaiAuwQ 19.0~19.8 반응 짤 + 큰글 '진짜 반전은'"
+   ],
+   "confidence": "눈",
+   "engine_cell": "(없음 — 출처 규칙으로 안 씀)",
+   "engine_support": "×",
+   "measure_task": null
+  },
+  {
+   "element": "sticker",
+   "cond": "본 자막 줄",
+   "action": "스티커 없음",
+   "unit": "줄",
+   "k": 200,
+   "n": 200,
+   "rate": 1.0,
+   "base": null,
+   "grade": "강",
+   "evidence": [
+    "3iQHc3oTP2Q 3.4~4.6 '원룸 원상복구 때문에'",
+    "3iQHc3oTP2Q 4.6~6.2 '끙끙 앓던 세입자들 사이에서'"
+   ],
+   "confidence": "눈",
+   "engine_cell": "(없음 — 쓰지 않음)",
+   "engine_support": "○",
+   "measure_task": null
+  },
+  {
+   "element": "pointer",
+   "cond": "본 자막 줄",
+   "action": "화살표·동그라미 표시 없음(낱말 강조 팩 동그라미는 자막 안 꾸밈 — cap_emph)",
+   "unit": "줄",
+   "k": 200,
+   "n": 200,
+   "rate": 1.0,
+   "base": null,
+   "grade": "강",
+   "evidence": [
+    "3iQHc3oTP2Q 3.4~4.6 '원룸 원상복구 때문에'",
+    "3iQHc3oTP2Q 4.6~6.2 '끙끙 앓던 세입자들 사이에서'"
+   ],
+   "confidence": "눈",
+   "engine_cell": "(없음 — 쓰지 않음)",
+   "engine_support": "○",
+   "measure_task": null
+  },
+  {
+   "element": "thumb",
+   "cond": "편 0초",
+   "action": "표지 카드(회색 막 + 흰/파랑 큰 2줄 + 흰 상자 작은 제목) · 나레가 읽음 · 2.5~4.2초",
+   "unit": "편",
+   "k": 8,
+   "n": 8,
+   "rate": 1.0,
+   "base": null,
+   "grade": "강",
+   "evidence": [
+    "Uu_SJaiAuwQ 0.0~2.5 표지",
+    "HmGDP6rrqo8 0.0~2.5 표지"
+   ],
+   "confidence": "픽셀",
+   "engine_cell": "판설정.json frame.intro",
+   "engine_support": "○",
+   "measure_task": null
+  },
+  {
+   "element": "speech",
+   "cond": "나레",
+   "action": "남성 나레 1명 f0 145.5Hz · 7.071~7.849자/초 · 줄 사이 빈틈 0초 → 우리 = 일레븐랩스 성욱 v3(회원지시) · 배속 상한 1.27",
+   "unit": "편",
+   "k": 8,
+   "n": 8,
+   "rate": 1.0,
+   "base": null,
+   "grade": "강",
+   "evidence": [
+    "Uu_SJaiAuwQ 받아쓰기(02_source/Uu_SJaiAuwQ.mp4.asr.json)",
+    "HmGDP6rrqo8 받아쓰기(02_source/HmGDP6rrqo8.mp4.asr.json)"
+   ],
+   "confidence": "신호",
+   "engine_cell": "판설정.json voice · cps_target · tempo_max · pause_*",
+   "engine_support": "○",
+   "measure_task": null
+  },
+  {
+   "element": "script",
+   "cond": "편",
+   "action": "'이건 ( ) 바로' + 제품 일반 이름 공개(끼움말 편마다 랜덤 — 바이럴 근거 있는 것만)",
+   "unit": "편",
+   "k": 8,
+   "n": 8,
+   "rate": 1.0,
+   "base": null,
+   "grade": "강",
+   "evidence": [
+    "3iQHc3oTP2Q 10.8~12.4 '이건 바로 떼어내는 페인트'",
+    "3kb2fopXnIw 11.1~11.7 '이건 바로'",
+    "BG8D7oeIhwY 11.8~12.4 '이건 바로'"
+   ],
+   "confidence": "눈",
+   "engine_cell": "판설정.json vary.insert_pool · script.brief",
+   "engine_support": "○",
+   "measure_task": null
+  },
+  {
+   "element": "script",
+   "cond": "편",
+   "action": "'게다가/심지어/진짜 ~ 포인트는' 둘째 장점 이음 줄",
+   "unit": "편",
+   "k": 8,
+   "n": 8,
+   "rate": 1.0,
+   "base": null,
+   "grade": "강",
+   "evidence": [
+    "3iQHc3oTP2Q 18.7~19.9 '진짜 대박인게'",
+    "3kb2fopXnIw 7.1~8.2 '진짜 스트레스였는데'"
+   ],
+   "confidence": "눈",
+   "engine_cell": "판설정.json script.brief",
+   "engine_support": "○",
+   "measure_task": null
+  },
+  {
+   "element": "script",
+   "cond": "줄 끝",
+   "action": "자막 끝 '~요'·'~죠' 금지 — '~다고'·'~다는데'·'~라는데'·'~거'(회원지시 2026-11-08) · 벤치 끝 줄 전언 꼴 7/8",
+   "unit": "편",
+   "k": 7,
+   "n": 8,
+   "rate": 0.875,
+   "base": null,
+   "grade": "강",
+   "evidence": [
+    "3iQHc3oTP2Q 29.0~30.6 '폐와 건강까지 지켜주는'",
+    "3iQHc3oTP2Q 30.6~31.4 '효자템이라고'"
+   ],
+   "confidence": "눈",
+   "engine_cell": "판설정.json script.audit[0]",
+   "engine_support": "○",
+   "measure_task": null
+  },
+  {
+   "element": "script",
+   "cond": "끝 줄",
+   "action": "이걸 살 수밖에 없는 이유를 위트 있게 한 줄(지어낸 숫자·금액·효능 없이 — 회원지시)",
+   "unit": "편",
+   "k": 0,
+   "n": 0,
+   "rate": null,
+   "base": null,
+   "grade": "표본부족",
+   "evidence": [],
+   "confidence": "미측정",
+   "engine_cell": "판설정.json script.brief",
+   "engine_support": "○",
+   "measure_task": "다음 편부터 끝 줄 꼴을 편마다 모아 벤치 끝 줄 8편과 견준다"
+  }
+ ]
+}

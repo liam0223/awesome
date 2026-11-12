@@ -1,0 +1,90 @@
+{
+ "slug": "click_note",
+ "channel": "클릭노트",
+ "channel_url": "https://www.youtube.com/@click_note",
+ "brand": "클릭노트",
+ "brand_note": "회원 채널(2026-11-08 회원 확인) — 벤치와 같은 이름",
+ "format": "나레형",
+ "format_note": "제품 시연 클립 재편집 + 남성 나레 + 위 띠 제목 + 흰 띠 노래방 자막 + 0초 표지 카드",
+ "sound_style": "나레 + 효과음(배경음 없음)",
+ "voice": "일레븐랩스 성욱(eleven_v3)",
+ "bgm": "없음",
+ "caption_look": "흰 띠 GmarketSansBold 79px 검은 글 · 읽는 낱말 파랑 #0811F4 + 숏클 낱말 강조 팩 랜덤 · 큰글 122px",
+ "copied_n": 1,
+ "line_reads_n": 8,
+ "sample_short": false,
+ "sample_short_why": null,
+ "axes": {
+  "1자막": {
+   "value": "흰 띠 y403~586 GmarketSansBold 79px #111111 한 줄 컷 교체 · 노래방 파랑 #0811F4 · 큰글 2줄 3.5%",
+   "confidence": "픽셀"
+  },
+  "2제목틀": {
+   "value": "위 짙은 초록 #072723 띠 0~403 · 로고 · [광고] · 민트 제목 #44DFB7 · 창 y586~1920",
+   "confidence": "픽셀"
+  },
+  "3전환": {
+   "value": "하드컷만 200/200",
+   "confidence": "픽셀"
+  },
+  "4장면대사": {
+   "value": "말하는 대상이 화면에 보임(fit≥5) 182/200",
+   "confidence": "눈"
+  },
+  "5스토리": {
+   "value": "표지 → 불편 → '이건 바로' 공개(22~40%) → 쓰는 법 → '게다가' → '진짜 ~ 포인트는' → 고조 → 끝",
+   "confidence": "눈"
+  },
+  "6대본언어": {
+   "value": "반말 서술 · 조각 중앙 8자(최대 13) · 끝 전언 7/8 → 우리 ~다고·~다는데(~요·~죠 금지)",
+   "confidence": "픽셀"
+  },
+  "7소리": {
+   "value": "남성 나레 f0 145.5Hz · 7.58자/초 · 빈틈 0 · 배경음 갈림 · 효과음 미측정",
+   "confidence": "신호"
+  },
+  "8스티커짤": {
+   "value": "스티커 0 · 반응 짤 4/8편(우리는 안 씀)",
+   "confidence": "눈"
+  },
+  "9썸네일": {
+   "value": "0초 표지 카드 8/8 · 나레가 읽음 2.5~4.2초",
+   "confidence": "픽셀"
+  },
+  "10소재": {
+   "value": "생활 발명품·주방·문구 해외 시연 영상 재편집",
+   "confidence": "눈"
+  },
+  "11채널": {
+   "value": "회원 지정 8편(01_select/메타표.md)",
+   "confidence": "픽셀"
+  }
+ },
+ "rules_file": "규칙.json",
+ "rules_n": 19,
+ "rules_unmeasured": 3,
+ "match": {
+  "file": "재현일치도.md",
+  "rows": 18,
+  "ok": 18,
+  "bad": 0,
+  "unmeasured": 0,
+  "verdict": "통과",
+  "pixel_in": 18,
+  "pixel_total": 19
+ },
+ "eye": {
+  "member_pass": true,
+  "note": "회원 눈 판정 5번(목소리·효과음·말투·로고·끼움말·큰글 효과·낱말 강조 팩) 뒤 '통과'(2026-11-08)"
+ },
+ "done": {
+  "level": 3,
+  "level_name": "1차 통과",
+  "missing": [
+   "벤치 효과음·배경음 측정(분리 도구 없음)",
+   "제목·표지 글꼴 대체(BMDOHYEON — 미일치)"
+  ],
+  "next": "제작순서.md 대로 다음 편 — 바이럴 + 쿠팡 소재"
+ },
+ "saved_at": "2026-11-08"
+}

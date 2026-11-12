@@ -1,0 +1,11 @@
+{
+ "sha256": "86cc920a1d7b1cdabf0d18754796dfca4c2b92232dc9f19c2b46b1a99a9d0e8d",
+ "verdict": "통과",
+ "who": "클로드(0초 프레임 · 등장 순간 프레임 25장 · 1초 시트 0~27초)",
+ "why": "0초 흰 번쩍 0 · 등장 효과 20줄 17종·연달아 같은 것 0 · 효과음 10발 · 재현일치도 18/18 · TP −1.4 · 소리는 귀로 듣지 않음",
+ "seen": [
+  "_look/enter_chk.jpg",
+  "_look/big_chk.jpg",
+  "_look/final_1s.jpg"
+ ]
+}

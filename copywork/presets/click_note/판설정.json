@@ -1,0 +1,594 @@
+{
+ "name": "클릭노트판",
+ "renderer": "cn_window",
+ "version": 7,
+ "history": [
+  {
+   "v": "v1",
+   "date": "2026-11-08",
+   "why": ""
+  },
+  {
+   "v": "v1",
+   "date": "2026-11-08",
+   "why": ""
+  },
+  {
+   "v": "v1",
+   "date": "2026-11-08",
+   "why": ""
+  },
+  {
+   "v": "v1",
+   "date": "2026-11-08",
+   "why": ""
+  },
+  {
+   "v": "v2",
+   "date": "2026-11-08",
+   "why": "회원 눈 판정: 목소리 성욱 v3 · 0초 효과음+화면 전환 · 움직임 맞춘 효과음(과하지 않게)"
+  },
+  {
+   "v": "v3",
+   "date": "2026-11-08",
+   "why": "회원 눈 판정: 자막 끝 ~요 금지(~라는데·~거 맺음) · 로고 '클릭노트'"
+  },
+  {
+   "v": "v4",
+   "date": "2026-11-08",
+   "why": "회원 눈 판정 3: ~죠 금지 · 바이럴+쿠팡 소재 · 효과음 팩 랜덤 · '이건( )바로' · 큰글 장면 효과 랜덤 · 위트 있는 끝 줄"
+  },
+  {
+   "v": "v5",
+   "date": "2026-11-08",
+   "why": "회원: 읽는 낱말 파랑에 숏클 낱말 강조 팩(밑줄·형광펜·동그라미·글로우) 편마다 랜덤"
+  },
+  {
+   "v": "v6",
+   "date": "2026-11-08",
+   "why": "회원: 첫 화면(썸네일) 하얀 번쩍임·확대 없앰 · 숏클 자막 등장 효과 팩 줄마다(같은 것 연달아 없음) · 효과음 편당 10개 이상 · 효과음 +3dB"
+  },
+  {
+   "v": "v7",
+   "date": "2026-11-08",
+   "why": "회원: 표지(0~3초)에도 맨 위 가운데 '클릭노트' 채널 이름"
+  }
+ ],
+ "_note": "클릭노트 1차 판 — 나레(남) + 위 짙은 초록 띠(로고·[광고]·민트 제목) + 흰 자막 띠(검은 글, 읽는 낱말 파랑) + 아래 영상 창 + 0초 표지 카드. 회원지시 규칙 셋(쿠팡 검색 제품만·이름 금지·전언 금지)이 앞선다.",
+ "bench": {
+  "ko": "클릭노트",
+  "channel": "https://www.youtube.com/@click_note",
+  "analysis": "스타일분석.md",
+  "line_reads": "lines/",
+  "palette": "팔레트.json",
+  "rules": "규칙.json",
+  "follow": [
+   "Uu_SJaiAuwQ",
+   "HmGDP6rrqo8",
+   "BG8D7oeIhwY",
+   "3iQHc3oTP2Q"
+  ],
+  "follow_why": "편 갈래 A(흰 띠 검은 자막 + 노래방 파랑) — 조회 많은 4편"
+ },
+ "voice": {
+  "name": "성욱(Seonguk · 일레븐랩스)",
+  "voice_id": "dMZ8mX0Ph1cjrCK7Jhrg",
+  "model": "eleven_v3",
+  "settings": {
+   "stability": 0.5,
+   "similarity_boost": 0.78,
+   "style": 0.3
+  },
+  "none": false,
+  "candidates": [
+   "1W00IGEmNmwmsDeYy7ag(크리스 · 남 젊음 · f0 137.9Hz · 5.87자/초 — 1순위)",
+   "U1cJYS4EdbaHmfR7YzHd(민호 · 137.9Hz · 5.62)",
+   "dMZ8mX0Ph1cjrCK7Jhrg(성욱 · 145.5Hz · 5.10)",
+   "4JJwo477JUAx3HV0T7n7(요한 쿠 · 228.6Hz — 벤치보다 높음)",
+   "m3gJBS8OofDJfycyA2Ip(태형 · 193.9Hz)"
+  ],
+  "why": "회원 눈 판정 2026-11-08 '음성은 일레븐렙스 seonguk v3버전으로 바꿔줘' — 회원지시가 앞선다(벤치 f0 145.5Hz 와 성욱 145.5Hz 같음)",
+  "settings_from": "v3 는 빠르기 설정이 안 먹음(실측) → 말속도는 렌더 템포(tempo_max 까지, 높이 그대로)로 맞춘다 · v3 stability 는 0.0/0.5/1.0 만 받음"
+ },
+ "cps_target": 7.58,
+ "cps_target_from": "자막 자/초 편별 7.07~7.85 중앙 7.58(06_rules 규칙빈도 nums, n=8) · 받아쓰기 7.45~8.24 중앙 7.58",
+ "tempo_max": 1.27,
+ "tempo_max_from": "지침서 §1-2 배속 상한",
+ "pause_max": 0.06,
+ "pause_max_from": "벤치 줄 사이 빈틈 0초(192/192) — 쉼을 거의 없앤다",
+ "pause_trim_over": 0.12,
+ "pause_trim_over_from": "0.12초 넘는 글자 사이 틈만 줄인다(지난 판 0.2 → 벤치 빈틈 0 이라 더 촘촘히)",
+ "pause_xfade": 0.02,
+ "pause_xfade_from": "자른 자리 20ms 섞기(지난 판 값 — 툭 끊김 방지, 회원 눈 판정 3)",
+ "pause_silence_db": -35,
+ "pause_silence_db_from": "지난 판 값(말끝 잘림 방지 — 조용한 구간만 자름)",
+ "bgm": {
+  "id": null,
+  "none": true,
+  "why": "벤치 배경음 뒷받침 갈림(스타일분석 7 — 20ms 바닥 −60~−89dB) → 1차 판 없음, 회원 귀 판정"
+ },
+ "loudness": {
+  "lufs": -14.0,
+  "lufs_from": "−14 통일(지침 §5)",
+  "tp": -1.5,
+  "tp_from": "−1.5 dBTP 통일(규격 3-2)"
+ },
+ "length": {
+  "min": 23.7,
+  "min_from": "갈래 A 4편 길이 23.68·26.12·30.65·31.65 중 최소",
+  "max": 31.7,
+  "max_from": "같은 4편 중 최대"
+ },
+ "timing": {
+  "gap": 0.0,
+  "gap_from": "줄 사이 빈틈 0초(192/192)",
+  "tail": 0.3,
+  "tail_from": "안 잼 — 다음: 벤치 마지막 낱말 끝 → 영상 끝 초를 받아쓰기로 잰다(지금 0.3 은 지난 판 값)"
+ },
+ "frame": {
+  "kind": "window",
+  "window": [
+   0,
+   586,
+   1080,
+   1334
+  ],
+  "window_from": "갈래 A 4편 창 y584~586(뜯기 layout.window)",
+  "top_band": {
+   "y0": 0,
+   "y1": 403,
+   "hex": "#072723",
+   "hex_from": "위 띠 가운데값 #072723(A 3편)·#002721(A 1편)",
+   "y0_from": "위 띠 위 끝 = 화면 맨 위(A 4편)",
+   "y1_from": "흰 띠 위 끝 y403(뜯기 caption_box)"
+  },
+  "logo": {
+   "text": "클릭노트",
+   "why": "회원 눈 판정 2026-11-08 '채널명 클릭노트로 적어줘' — 회원 채널임을 회원이 확인(벤치 채널과 같은 이름)",
+   "font": "BMDOHYEON.ttf",
+   "px": 90,
+   "px_from": "v3 실측: 72px 로 그리니 잉크 높이 ~50px(벤치 67px) → 90px(잉크 y94~161 맞춤)",
+   "y_ink": 94,
+   "fill": "#FFFFFF",
+   "y_ink_from": "벤치 로고 글 잉크 위 끝 y94(A 4편 logo_y 94~196)"
+  },
+  "ad_mark": {
+   "text": "[광고]",
+   "font": "GmarketSansBold.ttf",
+   "px": 34,
+   "px_from": "잉크 상자 [944,155,1039,195](Uu 5초) 높이 40 — 대괄호 포함",
+   "fill": "#9AADAD",
+   "box": [
+    944,
+    155,
+    1039,
+    195
+   ],
+   "box_from": "벤치 [광고] 잉크 상자 Uu 5초 픽셀"
+  },
+  "top_title": {
+   "font": "BMDOHYEON.ttf",
+   "fill": "#44DFB7",
+   "fill_from": "민트 제목 #44DFB7~#46DFB7(A 4편 top_text_rows)",
+   "one": {
+    "px": 87,
+    "px_from": "1줄 잉크 y267~349 — BMDOHYEON 은 fontmatch 0.43~0.50 미일치(대체)",
+    "center_y": 308,
+    "center_y_from": "1줄 잉크 y267~349 가운데"
+   },
+   "two": {
+    "px": 78,
+    "px_from": "2줄 잉크 높이 62(y239~300 · 311~371)",
+    "center_y": [
+     270,
+     341
+    ],
+    "center_y_from": "2줄 잉크 y239~300 · 309~371 가운데"
+   },
+   "max_w": 960,
+   "max_w_from": "민트 제목 최대 잉크 폭 약 940(A 4편) + 여유"
+  },
+  "caption_box": {
+   "y0": 403,
+   "y1": 586,
+   "hex": "#FFFFFF",
+   "y_from": "흰 띠 y403~586(A 4편 뜯기 caption_box)",
+   "y0_from": "흰 띠 위 끝(뜯기 caption_box 403)",
+   "y1_from": "흰 띠 아래 끝 = 영상 창 위 끝 586"
+  },
+  "intro": {
+   "band_hex": "#537C76",
+   "band_hex_from": "표지 동안 위 띠 #537C76(Uu·BG8·3kb 1초 x5~25 픽셀)",
+   "band_y1": 162,
+   "panel_hex": "#7E8382",
+   "panel_hex_from": "y162~492 회색 판(Uu 126,131,130 · 3kb 122,127,126)",
+   "panel_y1": 492,
+   "box": {
+    "y0": 497,
+    "y1": 628,
+    "hex": "#FFFFFF",
+    "glow": 22,
+    "y_from": "흰 상자 y497~628 + 바깥 흐림 ~652",
+    "y0_from": "흰 상자 y497(1초 프레임)",
+    "y1_from": "흰 상자 y628",
+    "glow_from": "상자 바깥 흐림 ~652 − 628 ≈ 22(눈)"
+   },
+   "line1": {
+    "font": "BMDOHYEON.ttf",
+    "px": 96,
+    "px_from": "흰 글 잉크 y230~320 — 미일치 대체",
+    "fill": "#FFFFFF",
+    "outline": 6,
+    "center_y": 275,
+    "max_w": 1000,
+    "outline_from": "흰 글 검은 테 6px(크롭 눈)",
+    "center_y_from": "흰 글 잉크 y230~320 가운데",
+    "max_w_from": "표지 글 최대 폭 약 980 + 여유"
+   },
+   "line2": {
+    "font": "BMDOHYEON.ttf",
+    "px": 128,
+    "px_from": "파랑 글 잉크 y364~477(외곽 포함 113px)",
+    "fill": "#01A6FC",
+    "fill_from": "파랑 #01A6FC(Uu·BG8·3kb)",
+    "outline": 6,
+    "center_y": 420,
+    "max_w": 1000,
+    "outline_from": "파랑 글 검은 테 6px(크롭 눈)",
+    "center_y_from": "파랑 글 잉크 y364~477 가운데",
+    "max_w_from": "line1 과 같음"
+   },
+   "box_text": {
+    "font": "GmarketSansBold.ttf",
+    "px": 50,
+    "px_from": "상자 글 잉크 약 40px(눈)",
+    "fill": "#111111",
+    "max_w": 1000,
+    "max_w_from": "상자 안 폭 1064 − 여백"
+   },
+   "band_y1_from": "표지 위 띠 아래 끝 y162(Uu·BG8·3kb 1초)",
+   "panel_y1_from": "회색 판 아래 끝 y492",
+   "logo": true,
+   "logo_from": "회원 2026-11-08 '0~3초사이에 맨위쪽 가운데에 클릭노트 채널이름 항상 넣어' — 표지 띠(y0~162)에 본문 로고(frame.logo)와 같은 글꼴·크기·자리"
+  }
+ },
+ "caption": {
+  "layers": [
+   {
+    "name": "해설",
+    "font": "GmarketSansBold.ttf",
+    "px": 79,
+    "px_from": "잉크 높이 66~68px ÷ 100px 그렸을 때 86px(fontmatch 0.919)",
+    "fill": "#111111",
+    "fill_from": "검은 글 #111111(Uu·Hm)",
+    "hi": "#0811F4",
+    "hi_from": "읽는 낱말 파랑 #0811F4(Uu 3.6초·Hm 6.0초)",
+    "karaoke": true,
+    "x": 540,
+    "ink_center_y": 496,
+    "ink_center_y_from": "잉크 y462~530 가운데",
+    "max_w": 1000,
+    "enter": "pack",
+    "exit": "cut",
+    "x_from": "가운데 정렬(줄판독 x 540)",
+    "max_w_from": "흰 띠 자막 최대 잉크 폭 약 960(줄판독 max_w) + 여유",
+    "enter_from": "숏클 등장 효과 팩 줄마다(enter_fx) — 회원 2026-11-08(벤치는 컷 등장이지만 회원 말이 앞선다)"
+   },
+   {
+    "name": "큰글",
+    "font": "GmarketSansBold.ttf",
+    "px": 122,
+    "px_from": "BG8 18.9초 큰글 2줄 흰 잉크 y1136~1370(234px) → 줄 잉크 약 105px ÷ 0.86(G마켓 100px 잉크 86) ≈ 122",
+    "fill": "#FFFFFF",
+    "hi": "#0811F4",
+    "shadow": {
+     "blur": 14,
+     "alpha": 0.7,
+     "hex": "#000000",
+     "spread": 3,
+     "blur_from": "큰글 검은 그림자 흐림 12~14(BG8 18.9초 눈)",
+     "alpha_from": "그림자 짙기 0.6~0.7(눈)",
+     "spread_from": "그림자 번짐 3px(눈 — 글 둘레 어두운 테)"
+    },
+    "center_y": 1253,
+    "center_y_from": "같은 프레임 잉크 가운데 (1136+1370)/2",
+    "line_gap": 24,
+    "hide_band": true,
+    "line_gap_from": "큰글 2줄 사이 잉크 틈 약 24px(BG8 18.9초)",
+    "enter": "pack",
+    "enter_from": "숏클 등장 효과 팩 줄마다(enter_fx) — 회원 2026-11-08(벤치는 컷 등장이지만 회원 말이 앞선다)"
+   }
+  ],
+  "chunk_max_chars": 13,
+  "chunk_max_chars_from": "조각 글자 최대 13 · p90 12(n=200)"
+ },
+ "cuts": {
+  "target_median": 1.18,
+  "target_median_from": "갈래 A 편 컷 중앙 1.0·1.033·1.333·1.401 의 중앙(반대검사 참고)",
+  "transition": {
+   "kinds": {
+    "cut": 1.0
+   },
+   "kinds_from": "하드컷만(0.1초 띠·1초 시트 눈)",
+   "ms": 0,
+   "ms_from": "전환 효과 0 → 길이 0"
+  }
+ },
+ "placement": {
+  "rules": {
+   "enter": "전부 cut",
+   "emph": "노래방 파랑(읽는 낱말)",
+   "sticker": "없음",
+   "meme": "없음 — 남의 얼굴 짤은 출처 규칙으로 안 씀, 자리는 큰글 층",
+   "sfx": "없음"
+  },
+  "counted": {
+   "made_by": "rules_cn.py",
+   "source": "06_rules/규칙빈도.json"
+  }
+ },
+ "rhythm": {
+  "cut_median": {
+   "v": 1.18,
+   "v_from": "cuts.target_median 과 같음"
+  },
+  "big_lines": {
+   "min": 1,
+   "max": 2,
+   "from": "큰글 줄 편당 0~2(6/8편)",
+   "min_from": "큰글 줄 편당 0~2(6/8편 ≥1) — 1차 판은 1줄 이상",
+   "max_from": "편당 최대 2(줄판독 8편)"
+  }
+ },
+ "title_form": "표지 2줄 — 1줄 상황·대상(흰, 14~20자) / 2줄 '~(천재의) 발명품'(파랑) · 위 띠 = 2줄을 줄인 꼴 + '?'",
+ "script": {
+  "brief": [
+   "표지 = 큰 2줄 제목을 나레가 그대로 읽는다(2.5~4.2초).",
+   "다리: 불편한 상황 3줄 안 → '이건 바로' + 제품 일반 이름(길이 25~35% 자리) → 기존 불편 → 해결 동작(손 동작 낱말: 쭉·착·쓱) → '게다가/심지어' 둘째 장점 → '진짜 미친 포인트는'(큰글 1줄) → 고조 → 끝 감상 한 줄.",
+   "조각 4~13자(중앙 8). 맺는 꼴은 '~다고'·'~다는데'·'~라는데'·'~거'·'~고' — 자막 끝 '~요'·'~죠' 금지(회원지시 2026-11-08).",
+   "제품명·브랜드·회사 이름 금지(규칙 2) · 쿠팡 검색에 나오는 제품만(규칙 1) · 성분·효능·금액·안전성은 뒷받침 없으면 안 씀.",
+   "마지막 줄 = 이걸 살 수밖에 없는 이유를 위트 있게 한 줄(지어낸 숫자·금액·효능 없이).",
+   "소재 = 국내·해외에서 바이럴된 제품(조회수 실측을 출처.md '바이럴 근거'에) + 쿠팡에서 파는 제품(규칙 1)."
+  ],
+  "audit": [
+   {
+    "id": "end_form",
+    "regex": "(요$|죠$|랍니다|했대|라고\\s?하(네|더)|다고\\s?하(네|더))",
+    "why": "회원지시 2026-11-08 자막 끝 '~요'·'~죠' 금지 · '~다고'·'~다는데'·'~라는데'·'~거' 맺음"
+   }
+  ]
+ },
+ "source": {
+  "min_h": 1080,
+  "min_h_from": "짧은 변 1080 — 창 1334 로 늘릴 때 흐려지지 않게(지난 판 회원 '720 이하 금지'보다 높게)"
+ },
+ "checks": {
+  "glyph": true,
+  "even_height": true,
+  "hearsay": true,
+  "forbidden_words": true,
+  "why": "지침 §2-4 렌더 전 관문 + 회원지시 검사"
+ },
+ "variables": {},
+ "sfx": {
+  "peak_dbfs": {
+   "opener": -1,
+   "whoosh": -6,
+   "pop": -5,
+   "ding": -6,
+   "dung": -4,
+   "tick": -7,
+   "click2": -7,
+   "big": -1
+  },
+  "peak_from": "나레 −14 LUFS 밑에 깔리게 — 나레보다 앞서지 않는 크기(회원 '너무 과하지 않게')",
+  "intro": [
+   {
+    "kind": "opener",
+    "at": 0.0,
+    "at_from": "0초 표지와 같이(회원 '처음 화면에서 효과음')"
+   },
+   {
+    "kind": "whoosh",
+    "at": "title_end",
+    "off": -0.12,
+    "off_from": "표지→본문 컷 0.12초 앞(휙이 컷에 닿게)"
+   }
+  ],
+  "per_sec_max": 0.5,
+  "min_gap": 0.8,
+  "rule": "본문 효과음은 화면 움직임(늘리기·씌우기·뒤집기·드러내기)이 있는 줄에만, 그 낱말 시각에 · 줄의 1/3 이하 · 같은 소리 연달아 금지",
+  "_from": "회원지시 2026-11-08 — 벤치 sfx 는 미측정(분리 도구 없음)이라 회원 말대로",
+  "packs": "_assets/sfx/pack*",
+  "packs_from": "숏클 효과음 팩 21개(팩01~팩21, 팩21=사장님 팩) 복사 → 폴더는 영문 pack01~pack21(규격서 1-6 · ffmpeg 한글 경로) — 회원지시 '효과음 여러 개 확보, 영상마다 랜덤'",
+  "peak_dbfs_from": "회원 2026-11-08 '효과음 볼륨은 좀 크게' — 전부 +3dB(최고 −1 dBFS 까지 · 이전 {'opener': -3, 'whoosh': -9, 'pop': -8, 'ding': -9, 'dung': -7, 'tick': -10, 'click2': -10, 'big': -2}) · 그 전 '안 들려' +6dB",
+  "per_sec_max_from": "효과음 10개 이상(회원)을 23.7~31.7초에 넣으려면 0.35 로는 모자람 → 2초에 1발 꼴 이하",
+  "min_gap_from": "효과음 사이 0.8초 이상(겹쳐 들리지 않게 — v3 렌더 0.79초에서 멈춤)",
+  "min_count": 10,
+  "min_count_from": "회원 2026-11-08 '효과음도 한 영상당 10개 이상' — 모자라면 렌더가 등장 효과 센 줄에 더하고, 그래도 모자라면 멈춤",
+  "auto_by_enter": {
+   "slam": "dung",
+   "overPopBig": "pop",
+   "overPop": "pop",
+   "pop": "pop",
+   "glPop": "pop",
+   "popBounce": "pop",
+   "jelly": "pop",
+   "drop": "tick",
+   "shake": "tick",
+   "slide": "whoosh",
+   "wide": "whoosh",
+   "rise": "whoosh",
+   "riseClip": "whoosh",
+   "typing": "click2",
+   "blurUp": "whoosh",
+   "trackIn": "whoosh",
+   "grow": "ding",
+   "fade": "ding"
+  },
+  "auto_by_enter_from": "등장 모양과 맞는 소리(튀어나옴=팝·떨어짐/흔들림=틱·밀려옴/올라옴=휙·타이핑=클릭·쾅=둥·서서히=띵) — 효과음 팩 안 이름",
+  "auto_order": [
+   "slam",
+   "overPopBig",
+   "popBounce",
+   "pop",
+   "glPop",
+   "overPop",
+   "jelly",
+   "drop",
+   "shake",
+   "slide",
+   "wide",
+   "typing",
+   "riseClip",
+   "rise",
+   "blurUp",
+   "trackIn",
+   "grow",
+   "fade"
+  ]
+ },
+ "intro_fx": {
+  "start_zoom": 1.0,
+  "start_zoom_sec": 0.4,
+  "start_flash_sec": 0.0,
+  "cut_zoom": 1.06,
+  "cut_zoom_sec": 0.22,
+  "_from": "회원지시 2026-11-08 '처음 화면에서 효과음과 화면변화도 같이' — 0초 흰 번쩍임+확대 당김, 표지→본문 넘어갈 때 짧은 당김",
+  "start_zoom_from": "1.0 = 0초 확대 없음 — 회원 2026-11-08 '가장 첫 화면이 썸네일 화면이야. 맨 앞쪽에 하얀 부분은 앞으로 넣지마'(이전 1.15)",
+  "start_zoom_sec_from": "0.4초(프레임 눈 — 표지 글이 읽히기 전 끝남)",
+  "start_flash_sec_from": "0 = 0초 흰 번쩍임 없음 — 같은 회원 말(이전 0.18초가 첫 프레임을 하얗게 덮어 썸네일이 하얬다)",
+  "cut_zoom_from": "표지→본문 1.06배 짧은 당김",
+  "cut_zoom_sec_from": "0.22초"
+ },
+ "pause_scan_all": true,
+ "pause_scan_all_from": "v2 성욱 v3: 쉼이 글자 시각 안에 숨어 12곳 5.9초가 안 잘림(실측 silencedetect) → 소리로 직접 찾아 줄인다",
+ "vary": {
+  "insert_line": "L4",
+  "insert_base": "이건 () 바로",
+  "insert_pool": [
+   {
+    "text": "요즘 난리 난",
+    "need": [
+     "바이럴"
+    ]
+   },
+   {
+    "text": "그 유명한",
+    "need": [
+     "바이럴"
+    ]
+   },
+   {
+    "text": "SNS에서 소문난",
+    "need": [
+     "바이럴"
+    ]
+   },
+   {
+    "text": "해외에서 대박 난",
+    "need": [
+     "해외바이럴"
+    ]
+   }
+  ],
+  "insert_rule": "끼움말은 그 편 출처.md '바이럴 근거'(조회수 실측)가 받쳐 주는 것만 — 대본 viral_tags",
+  "big_fx_pool": [
+   "shake",
+   "mono",
+   "zoom_punch",
+   "flash"
+  ],
+  "big_sfx_kinds": [
+   "opener",
+   "dung"
+  ],
+  "_from": "회원지시 2026-11-08 — '이건( )바로' 끼움말 · '진짜 미친 포인트는' 장면 효과·효과음 랜덤 · 효과음 팩 랜덤"
+ },
+ "big_fx": {
+  "shake": {
+   "sec": 0.5,
+   "px": 22
+  },
+  "mono": {
+   "sec": "line"
+  },
+  "zoom_punch": {
+   "sec": 0.3,
+   "from": 1.14
+  },
+  "flash": {
+   "sec": 0.15,
+   "alpha": 0.8
+  },
+  "shake_from": "흔들림 0.5초 · 22px에서 줄어듦(회원 '화면이 흔들리거나')",
+  "zoom_punch_from": "1.14배에서 0.3초 당김",
+  "flash_from": "흰 번쩍 0.15초 · 짙기 0.8"
+ },
+ "word_fx": {
+  "pool": [
+   "underline",
+   "highlight",
+   "circle",
+   "glow"
+  ],
+  "draw": {
+   "underline": 0.22,
+   "highlight": 0.28,
+   "circle": 0.35,
+   "glow": 0
+  },
+  "_from": "숏클 낱말 강조 팩(engine/shopping_shorts/static/caption-motions.js WORDFX 중 pack:true · hide 아닌 4개, 모양 precision20-ui.css .wfx-*) — 회원지시 2026-11-08 '파란 글자 랜덤 효과팩 적용'. 색은 채널 파랑 #0811F4 그대로, 읽는 낱말 글자도 파랑 유지(형광펜은 옅게 깔아 글자가 보이게)",
+  "draw_from": "숏클 낱말 강조 팩 그리는 초(caption-motions.js WORDFX draw — 밑줄 0.22 · 형광펜 0.28 · 동그라미 0.35 · 글로우 0)"
+ },
+ "frozen_at": "2026-11-08",
+ "version_from": "판 고친 번호 — history 마지막(v1 판 → 회원 눈 판정 4번 반영 v5)",
+ "enter_fx": {
+  "motions_js": "AppData/Local/Shortem/engine/shopping_shorts/static/caption-motions.js",
+  "pool": [
+   "rise",
+   "grow",
+   "pop",
+   "slide",
+   "drop",
+   "fade",
+   "wide",
+   "blurUp",
+   "popBounce",
+   "trackIn",
+   "riseClip",
+   "slam",
+   "typing",
+   "jelly",
+   "overPop",
+   "overPopBig",
+   "shake",
+   "glPop"
+  ],
+  "punchy": [
+   "slam",
+   "overPopBig",
+   "popBounce",
+   "pop",
+   "glPop",
+   "jelly",
+   "drop",
+   "overPop"
+  ],
+  "punchy_roles": [
+   "공개",
+   "고조",
+   "반전"
+  ],
+  "big_pool": [
+   "slam",
+   "overPopBig",
+   "pop",
+   "glPop",
+   "drop",
+   "shake"
+  ],
+  "rule": "줄마다 하나(편 씨앗으로 랜덤) · 바로 앞 줄과 같은 등장 금지(렌더가 멈춤) · 제품 드러남·고조 줄은 센 것 · 큰글은 통째 효과만",
+  "_from": "회원 2026-11-08 '쇼템의 자막등장효과팩 장면마다 알아서, 같은 등장연속없음으로 자막 만들어' — 숏클 caption-motions.js CAPTION_MOTIONS 중 그림으로 옮길 수 있는 18개(말 맞춰 타이핑·RGB 글리치·무지개·닦아 나오기·잔상 팝은 색·글리치 칸이 따로 있어 뺌) · 키프레임은 숏클 파일을 그대로 읽는다"
+ }
+}

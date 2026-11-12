@@ -1,0 +1,97 @@
+[
+ {
+  "id": "carefree",
+  "file": "_assets/bgm/carefree.mp3",
+  "title": "Carefree",
+  "source": "③ Kevin MacLeod (incompetech.com)",
+  "url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Carefree.mp3",
+  "license": "CC BY 4.0",
+  "credit": "\"Carefree\" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 License http://creativecommons.org/licenses/by/4.0/",
+  "mood": "밝은·가벼운 연주곡(가사 없음) — 벤치 배경 분위기는 미측정이라 '밝은 생활 꿀팁' 결로 고름",
+  "tags": [
+   "밝은",
+   "생활꿀템",
+   "청소",
+   "정리"
+  ]
+ },
+ {
+  "id": "fluffing_a_duck",
+  "file": "_assets/bgm/fluffing_a_duck.mp3",
+  "title": "Fluffing a Duck",
+  "source": "③ Kevin MacLeod (incompetech.com)",
+  "url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Fluffing%20a%20Duck.mp3",
+  "license": "CC BY 4.0",
+  "credit": "\"Fluffing a Duck\" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 License http://creativecommons.org/licenses/by/4.0/",
+  "mood": "장난스럽고 웃긴 — 엉뚱한 물건·실수 썰",
+  "tags": [
+   "웃긴",
+   "엉뚱",
+   "실수",
+   "장난"
+  ]
+ },
+ {
+  "id": "sneaky_snitch",
+  "file": "_assets/bgm/sneaky_snitch.mp3",
+  "title": "Sneaky Snitch",
+  "source": "③ Kevin MacLeod (incompetech.com)",
+  "url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Sneaky%20Snitch.mp3",
+  "license": "CC BY 4.0",
+  "credit": "\"Sneaky Snitch\" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 License http://creativecommons.org/licenses/by/4.0/",
+  "mood": "살금살금 궁금한 — 신기한 물건 정체 공개·비밀 꿀팁",
+  "tags": [
+   "신기한",
+   "비밀",
+   "궁금",
+   "공개"
+  ]
+ },
+ {
+  "id": "easy_lemon",
+  "file": "_assets/bgm/easy_lemon.mp3",
+  "title": "Easy Lemon",
+  "source": "③ Kevin MacLeod (incompetech.com)",
+  "url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Easy%20Lemon.mp3",
+  "license": "CC BY 4.0",
+  "credit": "\"Easy Lemon\" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 License http://creativecommons.org/licenses/by/4.0/",
+  "mood": "차분하고 따뜻한 — 살림·주방·감성 생활",
+  "tags": [
+   "차분",
+   "주방",
+   "살림",
+   "감성"
+  ]
+ },
+ {
+  "id": "life_of_riley",
+  "file": "_assets/bgm/life_of_riley.mp3",
+  "title": "Life of Riley",
+  "source": "③ Kevin MacLeod (incompetech.com)",
+  "url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Life%20of%20Riley.mp3",
+  "license": "CC BY 4.0",
+  "credit": "\"Life of Riley\" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 License http://creativecommons.org/licenses/by/4.0/",
+  "mood": "신나고 힘찬 — 강력한 성능·전후 비교·반전",
+  "tags": [
+   "신나는",
+   "성능",
+   "전후",
+   "반전"
+  ]
+ },
+ {
+  "id": "monkeys_spinning",
+  "file": "_assets/bgm/monkeys_spinning.mp3",
+  "title": "Monkeys Spinning Monkeys",
+  "source": "③ Kevin MacLeod (incompetech.com)",
+  "url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Monkeys%20Spinning%20Monkeys.mp3",
+  "license": "CC BY 4.0",
+  "credit": "\"Monkeys Spinning Monkeys\" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 License http://creativecommons.org/licenses/by/4.0/",
+  "mood": "귀엽고 깜찍한 — 반려동물·아이·귀여운 물건",
+  "tags": [
+   "귀여운",
+   "반려동물",
+   "아이"
+  ]
+ }
+]

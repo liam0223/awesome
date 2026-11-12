@@ -1,0 +1,23 @@
+{
+ "voice": {
+  "see": "판설정.json voice",
+  "name": "성욱(Seonguk · 일레븐랩스)",
+  "voice_id": "dMZ8mX0Ph1cjrCK7Jhrg",
+  "model": "eleven_v3"
+ },
+ "speed": {
+  "tempo_max": 1.27,
+  "tempo_max_from": "지침서 §1-2 배속 상한",
+  "cps_target": 7.58,
+  "cps_target_from": "판설정.json cps_target_from 과 같음"
+ },
+ "bgm": {
+  "id": null,
+  "none": true,
+  "why": "판설정.json bgm.why"
+ },
+ "caption": {
+  "mode": "한 줄 컷 교체(쌓지 않음) + 노래방 파랑 + 숏클 낱말 강조 팩 편마다 랜덤",
+  "see": "판설정.json caption · word_fx"
+ }
+}

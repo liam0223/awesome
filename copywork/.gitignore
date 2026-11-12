@@ -1,0 +1,18 @@
+# 큰 미디어·임시 파일은 커밋하지 않는다
+*.mp4
+*.mp3
+*.wav
+*.m4a
+*.webm
+*.part
+*.jpg
+*.png
+*.ttf
+*.otf
+*.bak*
+__pycache__/
+_tmp/
+_look/
+_ov/
+_tear/
+src/

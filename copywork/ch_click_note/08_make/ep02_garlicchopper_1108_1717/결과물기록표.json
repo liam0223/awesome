@@ -1,0 +1,23 @@
+{
+ "편": "ep02_garlicchopper_1108_1717",
+ "제품(일반 이름)": "무선 전동 미니 다지기",
+ "길이": 25.024,
+ "판": "presets/click_note 판설정(v5)",
+ "목소리": "성욱 eleven_v3",
+ "랜덤": {
+  "seed": 1605465857,
+  "sfx_pack": "pack19",
+  "insert": "SNS에서 소문난",
+  "big_fx": "zoom_punch",
+  "big_sfx": {
+   "pack": "pack02",
+   "kind": "opener"
+  },
+  "word_fx": "highlight",
+  "why": "회원지시 2026-11-08 — 편마다 랜덤"
+ },
+ "재현일치도": "18/18",
+ "회원 판정": "기다림",
+ "sha256": "dbf1d32afbdbeea0e8cc9062b97def93072cc48c662ae7a6f36bf914dc7159a8",
+ "날짜": "2026-11-08"
+}

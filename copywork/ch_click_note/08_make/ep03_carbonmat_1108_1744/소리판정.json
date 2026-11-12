@@ -1,0 +1,42 @@
+{
+ "sha256": "9458d8f3490e090288f0b413ec299d50d67e9c2f74d9ec3b873c0138c5f741a5",
+ "q": "62b2370e11fe7b33",
+ "model": "gemini-2.5-flash",
+ "who": "제미나이(소리·화면) — 회원 허락 2026-11-08",
+ "usage": {
+  "promptTokenCount": 8214,
+  "candidatesTokenCount": 137,
+  "totalTokenCount": 10147,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 839
+   },
+   {
+    "modality": "VIDEO",
+    "tokenCount": 6575
+   },
+   {
+    "modality": "AUDIO",
+    "tokenCount": 800
+   }
+  ],
+  "thoughtsTokenCount": 1796,
+  "serviceTier": "standard"
+ },
+ "result": {
+  "voice": {
+   "natural": "자연스럽고 또렷하며 끊김 없이 잘 들립니다.",
+   "issues": []
+  },
+  "script_match": [],
+  "sfx": {
+   "overall": "효과음 크기와 개수가 적절하며 장면과 잘 어울립니다.",
+   "issues": []
+  },
+  "mix": "나레이션 크기가 일정하고 잡음이나 끊김 없이 깔끔하게 처리되었습니다.",
+  "picture": [],
+  "verdict": "올려도 됨",
+  "fix_first": []
+ }
+}
